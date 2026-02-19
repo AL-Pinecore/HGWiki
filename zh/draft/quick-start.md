@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-19T08:48:48.044Z
+date: 2026-02-19T08:48:59.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 相关部分：[乐魂战](#乐魂战)｜高炉对垒
 
-编写：珍枝Zhenzhi & ALpinecore
+编写：ALpinecore & 珍枝Zhenzhi
 
 # 乐魂战
 
