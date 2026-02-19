@@ -2,7 +2,7 @@
 title: 物品
 description: 
 published: true
-date: 2026-02-19T12:22:42.283Z
+date: 2026-02-19T13:44:08.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:34:10.641Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T13:34:10.641Z
 
 # 道具
 
-本页旨在帮助您了解可购买的道具的价格、描述以及参数。
+本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中可购买的道具的价格、描述以及参数。
 
 目录：
 
