@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-19T13:40:18.142Z
+date: 2026-02-19T13:41:08.131Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -50,7 +50,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 ## 发育阶段
 
-玩家需要通过挖矿，完成[试练](/hgw/trials)，购买[道具](hgw/items)等方式增强自己和团队的力量。
+玩家需要通过挖矿，完成[试练](/hgw/trials)，购买[道具](/hgw/items)等方式增强自己和团队的力量。
 
 发育阶段时，靠近该队伍乐魂的玩家将会获得状态效果： 急迫、速度、抗性提升和生命恢复。
 
