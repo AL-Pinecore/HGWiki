@@ -2,7 +2,7 @@
 title: 物品
 description: 
 published: true
-date: 2026-02-19T14:05:26.955Z
+date: 2026-02-19T14:05:44.423Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:34:10.641Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-18T13:34:10.641Z
 
 目录：
 
-- [装备](/hgw/items/equipments) ：在核心熔炉中可购买的武器/护甲等等
+- [装备](/hgw/items/equipments) ：在核心熔炉中可购买的道具，比如武器/护甲等等
 
 - [消耗品](/hgw/items/consumables)：大部分源于木桶和试练奖励，比如金苹果/药水等等
 
