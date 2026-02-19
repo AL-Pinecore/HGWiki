@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2026-02-19T18:12:08.719Z
+date: 2026-02-19T18:54:26.218Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-16T14:50:23.170Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-16T14:50:23.170Z
 
 # 乐魂百科
 
-![](/480px-happy_ghast_je1_be1.gif)
+<figure>
+  <img src="/480px-happy_ghast_je1_be1.gif" width="250" align="left">
+</figure>
 
 本百科为 ISLAND 服务器中原创小游戏的非官方百科。
 
@@ -22,9 +24,9 @@ ISLAND 服务器由 Mythcraft 工作室运营，并收录了其原创的我的�
 
 若想游玩服务器请添加官方QQ群聊：[1020053293](tel:1020053293)
 
-![](https://i0.hdslb.com/bfs/new_dyn/8b658654927e4e7fd0d44e3f71b786b7298276958.png@1052w_!web-dynamic.avif)
-
-Mythcraft工作室
+<figure>
+  <img src="https://i0.hdslb.com/bfs/new_dyn/8b658654927e4e7fd0d44e3f71b786b7298276958.png@1052w_!web-dynamic.avif">
+</figure>
 
 ## ISLANDS服务器团队
 
