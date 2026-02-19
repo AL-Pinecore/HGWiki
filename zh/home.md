@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2026-02-19T18:57:58.632Z
+date: 2026-02-19T18:59:46.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-16T14:50:23.170Z
@@ -44,7 +44,7 @@ ISLAND 服务器由 Mythcraft 工作室运营，并收录了其原创的我的�
 
 <br>
 
-## 乐魂百科贡献者
+## 乐魂百科团队
 
 **ALPinecore**
 
