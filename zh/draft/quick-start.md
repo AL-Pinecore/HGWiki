@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-19T08:49:06.174Z
+date: 2026-02-19T08:57:15.596Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 本页旨在帮助您快速上手 ISLANDS 小游戏
 
-相关部分：[乐魂战](#乐魂战)｜高炉对垒
+分类：[乐魂战](#乐魂战)｜高炉对垒
 
 编写：ALpinecore & 珍枝Zhenzhi
 
