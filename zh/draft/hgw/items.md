@@ -2,7 +2,7 @@
 title: 物品
 description: 
 published: true
-date: 2026-02-19T09:46:29.463Z
+date: 2026-02-19T09:48:52.211Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:34:10.641Z
@@ -93,7 +93,7 @@ dateCreated: 2026-02-18T13:34:10.641Z
 > *使用耐高温的合金锭铸成的镐，内含熔炼装置。*
 
 ## 锹
-似乎只能用来挖雪？
+似乎……只能用来挖雪？
 ### 零阶 - 木锹
 ![木锹.png](/items/木锹.png)
 **获取**：游戏开始时发放
