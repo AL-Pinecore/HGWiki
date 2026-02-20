@@ -2,7 +2,7 @@
 title: 调速机构
 description: 
 published: true
-date: 2026-02-20T23:11:17.676Z
+date: 2026-02-20T23:11:39.216Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:27:53.503Z
@@ -23,6 +23,7 @@ dateCreated: 2026-02-20T22:27:53.503Z
 **效果:** 
 
 - 推进力度: +[15,25]%
+- 减少一个槽位
 
 **贴图:**
 
