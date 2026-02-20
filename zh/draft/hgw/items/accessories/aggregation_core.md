@@ -2,15 +2,17 @@
 title: 聚合核心
 description: 
 published: true
-date: 2026-02-20T15:15:51.978Z
+date: 2026-02-20T23:10:39.005Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:52:25.552Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 聚合核心
 
-编辑: NocolorThinker
+编写: NocolorThinker
 
 ### 品质 任何
 
