@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:09:03.805Z
+date: 2026-02-20T14:11:30.183Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 --- 
 
 - **简述**：
- 通过挖掘煤矿石，深层煤矿石和煤炭块获得。它们会生成在[乐魂战](/quick-start#乐魂战)游戏中的[紫晶矿区](/hgw/maps#紫晶矿区)地图与八队混战地图的煤岛上，用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
+ 通过挖掘浅层煤矿石，深层煤矿石或煤炭块获得。它们会生成在[乐魂战](/quick-start#乐魂战)游戏中的[紫晶矿区](/hgw/maps#紫晶矿区)地图与八队混战地图的煤岛上，用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
 
 
 ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
