@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:34:05.115Z
+date: 2026-02-20T14:37:19.072Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 # 煤炭
 煤炭 :coal: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
-编写：
+编写：yeyingQAQ & 珍枝Zhenzhi
 
 --- 
 
