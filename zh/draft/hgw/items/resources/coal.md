@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T13:59:22.310Z
+date: 2026-02-20T13:59:39.053Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -36,7 +36,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
   二级核心高炉
   三级合金熔炼炉
 - 可以用于购买：
-  小乐魂炮塔 :ghastling:（*最多8个*）
+  小乐魂炮塔 :ghastling: （*最多8个*）
   一阶初级核心火炮
 - 可以用于升级:
   [二阶时运镐](/zh/draft/hgw/items/equipments#二阶时运铁镐)——[三阶熔炼稿](/zh/draft/hgw/items/equipments#三阶熔炼稿)
