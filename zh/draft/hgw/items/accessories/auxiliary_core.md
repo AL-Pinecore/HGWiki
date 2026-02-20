@@ -2,12 +2,14 @@
 title: 附加核心
 description: 
 published: true
-date: 2026-02-20T22:11:29.066Z
+date: 2026-02-20T23:12:42.529Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:00:53.243Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 附加核心
 
 编写: NocolorThinker
