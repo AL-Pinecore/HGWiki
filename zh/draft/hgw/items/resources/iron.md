@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:11:49.974Z
+date: 2026-02-20T15:12:09.155Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
 # 铁锭
 铁锭 :iron_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
-编写：
+编写：yeyingQAQ & 珍枝Zhenzhi
 
 --- 
 
