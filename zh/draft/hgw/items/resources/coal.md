@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:28:08.727Z
+date: 2026-02-20T14:30:39.249Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -33,12 +33,12 @@ dateCreated: 2026-02-20T13:54:15.643Z
 **用途**：
 - 用于购买：
   [恶魂炮台](/hgw/upgrades#小恶魂炮塔) :ghastling: （*每只恶魂最多8个*）
-  [一阶核心火炮](/zh/hgw/items/equipments#核心火炮)
+  [一阶初级核心火炮](/zh/hgw/items/equipments#核心火炮)
 - 用于升级:
   [核心熔炉等级](/hgw/upgrades#核心熔炉)（二阶核心高炉，三阶合金熔炼炉）
-  [三阶熔炼稿](/hgw/items/equipments#镐)
+  [三阶熔炼镐](/hgw/items/equipments#镐)
   [二阶钻石胸甲](/hgw/items/equipments#护甲)
   [二阶进阶核心火炮](/hgw/items/equipments#核心火炮)
-  [三阶高级核心火炮](/hgw/items/equipments#核心火炮)
+  [三阶高阶核心火炮](/hgw/items/equipments#核心火炮)
 - 用于：
 提升核心熔炉[炉温](/hgw#炉温) *(点击了解更多)*
