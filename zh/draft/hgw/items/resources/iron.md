@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:19:01.939Z
+date: 2026-02-20T15:20:03.169Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -68,7 +68,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
   
 - 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
 - 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
-  
+- 用于更换胸甲附魔
   
   
   
