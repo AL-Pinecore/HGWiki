@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T14:12:23.773Z
+date: 2026-02-20T14:15:37.699Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -319,7 +319,7 @@ dps由你的精准度决定
 
 
 ## 钓鱼竿
-获取资源后，让你迅速回到核心熔炉
+节省您珍贵的赶路时间！
 > 需要安装 **传送钩爪** 配件
 {.is-info}
 
