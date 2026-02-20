@@ -2,7 +2,7 @@
 title: 活性弦
 description: 
 published: true
-date: 2026-02-20T20:08:45.716Z
+date: 2026-02-20T20:09:03.196Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:08:45.716Z
@@ -24,4 +24,4 @@ dateCreated: 2026-02-20T20:08:45.716Z
 
 **贴图:**
 
-![flexible_string_i.png](/icons/accessory/flexible_string_i.png =150x150)![flexible_string_ii.png](/icons/accessory/flexible_string_ii.png =150x150)![flexible_string_iii.png](/icons/accessory/_iii.png =150x150)![flexible_string_iv.png](/icons/accessory/flexible_string_iv.png =150x150)![flexible_string_v.png](/icons/accessory/flexible_string_v.png =150x150)
+![flexible_string_i.png](/icons/accessory/flexible_string_i.png =150x150)![flexible_string_ii.png](/icons/accessory/flexible_string_ii.png =150x150)![flexible_string_iii.png](/icons/accessory/flexible_string_iii.png =150x150)![flexible_string_iv.png](/icons/accessory/flexible_string_iv.png =150x150)![flexible_string_v.png](/icons/accessory/flexible_string_v.png =150x150)
