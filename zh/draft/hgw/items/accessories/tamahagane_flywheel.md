@@ -2,12 +2,14 @@
 title: 玄钢飞轮
 description: 
 published: true
-date: 2026-02-20T22:15:08.734Z
+date: 2026-02-20T23:09:10.118Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:15:08.734Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 玄钢飞轮
 
 编写: NocolorThinker
@@ -16,7 +18,7 @@ dateCreated: 2026-02-20T22:15:08.734Z
 
 **获取:** 准备阶段自选配件，试炼
 
-**适用装备:** [](/zh/hgw/items/equipments#)
+**适用装备:** [核心火炮](/zh/hgw/items/equipments#核心火炮)
 
 **效果:** 
 
