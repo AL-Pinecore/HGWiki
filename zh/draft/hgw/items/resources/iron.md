@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:07:03.589Z
+date: 2026-02-20T15:11:49.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -42,6 +42,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
   [连射弩](/zh/hgw/items/equipments#自动弩) （二阶自动弩）
   [重型巨弩](/zh/hgw/items/equipments#重弩) （二阶重弩）
   [初级核心火炮](/zh/hgw/items/equipments#核心火炮) （一阶核心火炮）
+  [绳索匕首](/zh/hgw/items/equipments#动力匕首) （一阶动力匕首）
+  [钓鱼竿](/zh/hgw/items/equipments#钓鱼竿) （一阶钓鱼竿）
 - 用于升级:
   [铁剑](/zh/hgw/items/equipments#剑) （一阶剑）
   [风暴剑](/zh/hgw/items/equipments#剑) （二阶剑）
@@ -57,6 +59,10 @@ dateCreated: 2026-02-20T15:07:03.589Z
   [钻石胸甲](/zh/hgw/items/equipments#护甲) （二阶胸甲升级）
   [合金胸甲](/zh/hgw/items/equipments#护甲) （三阶胸甲升级）
   [硬质盾](/zh/hgw/items/equipments#盾) （二阶盾）
+  [高级弹射器](/zh/hgw/items/equipments#弹射器) （三阶弹射器）
+  [铁矛](/zh/hgw/items/equipments#矛) （二阶矛）
+  [机械匕首](/zh/hgw/items/equipments#动力匕首) （二阶动力匕首）
+  
   
   
   
