@@ -2,7 +2,7 @@
 title: 绯红枢轴
 description: 
 published: true
-date: 2026-02-20T23:18:35.546Z
+date: 2026-02-20T23:19:33.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T23:18:35.546Z
@@ -30,4 +30,4 @@ dateCreated: 2026-02-20T23:18:35.546Z
 
 **贴图:**
 
-![_i.png](/icons/accessory/_i.png =150x150)![_ii.png](/icons/accessory/_ii.png =150x150)![_iii.png](/icons/accessory/_iii.png =150x150)![_iv.png](/icons/accessory/_iv.png =150x150)![_v.png](/icons/accessory/_v.png =150x150)
+![crimson_pivot_i.png](/icons/accessory/crimson_pivot_i.png =150x150)![crimson_pivot_ii.png](/icons/accessory/crimson_pivot_ii.png =150x150)![crimson_pivot_iii.png](/icons/accessory/crimson_pivot_iii.png =150x150)![crimson_pivot_iv.png](/icons/accessory/crimson_pivot_iv.png =150x150)![crimson_pivot_v.png](/icons/accessory/crimson_pivot_v.png =150x150)
