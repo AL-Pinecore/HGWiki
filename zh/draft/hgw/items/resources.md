@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-20T13:40:31.896Z
+date: 2026-02-20T13:47:32.047Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -24,7 +24,7 @@ dateCreated: 2026-02-18T15:34:10.882Z
 
 
 
-## 紫晶碎片:amethyst_shard:
+## 紫晶碎片 :amethyst_shard:
 **简述**
 通过挖掘紫水晶簇获得。它生成于[乐魂战](/quick-start#乐魂战)游戏中的[《紫晶矿区》](/hgw/maps#紫晶矿区)地图，用来升级最高阶的装备和乐魂装甲。下面的图片标注了紫水晶簇会出现的位置，共三处。
 
