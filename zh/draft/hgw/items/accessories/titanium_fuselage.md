@@ -2,7 +2,7 @@
 title: 钛钢机身
 description: 
 published: true
-date: 2026-02-20T22:52:30.176Z
+date: 2026-02-20T22:52:43.294Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:52:30.176Z
@@ -30,5 +30,5 @@ dateCreated: 2026-02-20T22:52:30.176Z
 ![titanium_fuselage_i.png](/icons/accessory/titanium_fuselage_i.png =150x150)![titanium_fuselage_ii.png](/icons/accessory/titanium_fuselage_ii.png =150x150)![titanium_fuselage_iii.png](/icons/accessory/titanium_fuselage_iii.png =150x150)![titanium_fuselage_iv.png](/icons/accessory/titanium_fuselage_iv.png =150x150)![titanium_fuselage_v.png](/icons/accessory/titanium_fuselage_v.png =150x150)
 
 
-> 或许用弹射器飞到高空再将装备有钛钢机身的重弩切换到副手，同时切换主手到[**矛**](/zh/hgw/items/equipments#矛)，对于敌方单位会有奇效？
+> 或许用弹射器飞到高空，再将装备有钛钢机身的重弩切换到副手，同时切换主手到[**矛**](/zh/hgw/items/equipments#矛)，对于敌方单位会有奇效？
 {.is-info}
