@@ -2,12 +2,14 @@
 title: 黄铜飞轮
 description: 
 published: true
-date: 2026-02-20T22:31:55.261Z
+date: 2026-02-20T23:13:34.034Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:31:55.261Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 黄铜飞轮
 
 编写: NocolorThinker
@@ -16,7 +18,7 @@ dateCreated: 2026-02-20T22:31:55.261Z
 
 **获取:** 准备阶段自选配件，试炼
 
-**适用装备:** [](/zh/hgw/items/equipments#)
+**适用装备:** [弹射器](/zh/hgw/items/equipments#弹射器)
 
 **效果:** 
 
