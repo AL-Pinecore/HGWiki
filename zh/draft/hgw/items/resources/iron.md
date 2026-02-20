@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:22:37.854Z
+date: 2026-02-20T15:29:25.758Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -35,37 +35,40 @@ dateCreated: 2026-02-20T15:07:03.589Z
   挖掘粗铁块将会获得三个**粗铁**
 - 使用二阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将获得一至两个**粗铁** 
   挖掘粗铁块将会固定获得四个**粗铁**
+  
+> 升级[熔炼镐](/hgw/items/equipments#镐)可以极大加快获取铁锭的效率！
+{.is-info}
 
 **用途**：
 - 用于购买：
-  [弓](/zh/hgw/items/equipments#弓) （一阶弓）
-  [弩](/zh/hgw/items/equipments#弩) （一阶弩）
-  [连射弩](/zh/hgw/items/equipments#自动弩) （二阶自动弩）
-  [重型巨弩](/zh/hgw/items/equipments#重弩) （二阶重弩）
-  [初级核心火炮](/zh/hgw/items/equipments#核心火炮) （一阶核心火炮）
-  [绳索匕首](/zh/hgw/items/equipments#动力匕首) （一阶动力匕首）
-  [钓鱼竿](/zh/hgw/items/equipments#钓鱼竿) （一阶钓鱼竿）
+  [弓](/hgw/items/equipments#弓) （一阶弓）
+  [弩](/hgw/items/equipments#弩) （一阶弩）
+  [连射弩](/hgw/items/equipments#自动弩) （二阶自动弩）
+  [重型巨弩](/hgw/items/equipments#重弩) （二阶重弩）
+  [初级核心火炮](/hgw/items/equipments#核心火炮) （一阶核心火炮）
+  [绳索匕首](/hgw/items/equipments#动力匕首) （一阶动力匕首）
+  [钓鱼竿](/hgw/items/equipments#钓鱼竿) （一阶钓鱼竿）
   [恶魂炮台](/hgw/upgrades#恶魂炮台) :ghastling: **（*每只乐魂最多8个*）**
 - 用于升级:
-  [铁剑](/zh/hgw/items/equipments#剑) （一阶剑）
-  [风暴剑](/zh/hgw/items/equipments#剑) （二阶剑）
-  [铁斧](/zh/hgw/items/equipments#斧) （一阶斧）
-  [效率铁斧](/zh/hgw/items/equipments#斧) （二阶斧）
-  [铁镐](/zh/hgw/items/equipments#镐) （一阶镐）
-  [时运镐](/zh/hgw/items/equipments#镐) （二阶镐）
-  [石锹](/zh/hgw/items/equipments#锹) （一阶锹）
-  [铁锹](/zh/hgw/items/equipments#锹) （二阶锹）
-  [精准铁锹](/zh/hgw/items/equipments#锹) （三阶锹）
-  [强化弩](/zh/hgw/items/equipments#弩) （二阶弩）
-  [铁胸甲](/zh/hgw/items/equipments#护甲) （一阶胸甲升级）
-  [钻石胸甲](/zh/hgw/items/equipments#护甲) （二阶胸甲升级）
-  [合金胸甲](/zh/hgw/items/equipments#护甲) （三阶胸甲升级）
-  [硬质盾](/zh/hgw/items/equipments#盾) （二阶盾）
-  [高级弹射器](/zh/hgw/items/equipments#弹射器) （三阶弹射器）
-  [铁矛](/zh/hgw/items/equipments#矛) （二阶矛）
-  [机械匕首](/zh/hgw/items/equipments#动力匕首) （二阶动力匕首）
+  [铁剑](/hgw/items/equipments#剑) （一阶剑）
+  [风暴剑](/hgw/items/equipments#剑) （二阶剑）
+  [铁斧](/hgw/items/equipments#斧) （一阶斧）
+  [效率铁斧](/hgw/items/equipments#斧) （二阶斧）
+  [铁镐](/hgw/items/equipments#镐) （一阶镐）
+  [时运镐](/hgw/items/equipments#镐) （二阶镐）
+  [石锹](/hgw/items/equipments#锹) （一阶锹）
+  [铁锹](/hgw/items/equipments#锹) （二阶锹）
+  [精准铁锹](/hgw/items/equipments#锹) （三阶锹）
+  [强化弩](/hgw/items/equipments#弩) （二阶弩）
+  [铁胸甲](/hgw/items/equipments#护甲) （一阶胸甲升级）
+  [钻石胸甲](/hgw/items/equipments#护甲) （二阶胸甲升级）
+  [合金胸甲](/hgw/items/equipments#护甲) （三阶胸甲升级）
+  [硬质盾](/hgw/items/equipments#盾) （二阶盾）
+  [高级弹射器](/hgw/items/equipments#弹射器) （三阶弹射器）
+  [铁矛](/hgw/items/equipments#矛) （二阶矛）
+  [机械匕首](/hgw/items/equipments#动力匕首) （二阶动力匕首）
   **核心高炉**（二阶核心高炉）
-  [吊船](/zh/hgw/upgrades#吊船)提升最大血量上限 ~~（谁会点这个啊喂(#`O′)）~~
+  [吊船](/hgw/upgrades#吊船)提升最大血量上限 ~~（谁会点这个啊喂(#`O′)）~~
   
 - 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
 - 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
