@@ -2,7 +2,7 @@
 title: 回响矩阵
 description: 
 published: true
-date: 2026-02-20T23:02:20.595Z
+date: 2026-02-20T23:52:57.802Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:19:49.045Z
@@ -27,3 +27,5 @@ dateCreated: 2026-02-20T22:19:49.045Z
 **贴图:**
 
 ![resonance_matrix_iv.png](/icons/accessory/resonance_matrix_iv.png =150x150)![resonance_matrix_v.png](/icons/accessory/resonance_matrix_v.png =150x150)
+
+> “沉默不再带来安宁”
