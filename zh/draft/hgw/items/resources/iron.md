@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:20:03.169Z
+date: 2026-02-20T15:21:44.178Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -28,6 +28,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
 - 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铁**，获得一个铁锭 :iron_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铁块将会直接固定获得四个**铁锭** :iron_ingot: 
+- 地图中的木桶有概率会生成**铁锭** :iron_ingot:
 
 **粗铁的获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将获得一个**粗铁**
