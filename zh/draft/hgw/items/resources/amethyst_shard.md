@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-20T14:17:35.132Z
+date: 2026-02-20T14:21:27.061Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -25,12 +25,16 @@ dateCreated: 2026-02-20T13:58:12.516Z
 
 ![紫水晶刷新.png](/紫水晶刷新.png)
 
-**用途**：在**合金熔炼炉**中，紫晶碎片可以用来升级[紫晶匕首](/hgw/items/equipments#匕首)*（12紫晶碎片）*，[晶械连弩](/hgw/items/equipments#自动弩)  *（18紫晶碎片）* 和**晶化装甲** *(24紫晶碎片)* 。
-- [紫晶匕首](/hgw/items/equipments#匕首)（四阶动力匕首）
-CD：2.0秒，抓钩绳索长度：24.0米，弹射物伤害：8.5点
-- [晶械连弩](/hgw/items/equipments#自动弩)（四阶自动弩）
-拉弩时间 * 2，手持自动填充，箭矢速度 * 0.9，之多装填五支不同的箭
-- **晶化装甲**（五阶乐魂护甲）
+**获取**
+- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一个紫晶碎片 :amethyst_shard:
+- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一至两个紫晶碎片 :amethyst_shard:
+
+**用途**
+- 在**合金熔炼炉**中，紫晶碎片可以用来升级：
+  [紫晶匕首](/hgw/items/equipments#匕首)（四阶动力匕首）
+[晶械连弩](/hgw/items/equipments#自动弩)（四阶自动弩）
+**[晶化装甲](/hgw/upgrades#晶化装甲)**（五阶乐魂护甲）
+
 拥有期间，乐魂
 但是，该乐魂承受160点伤害后护甲会降回四阶护甲。
 可以重复购买，每只乐魂护甲独立。
