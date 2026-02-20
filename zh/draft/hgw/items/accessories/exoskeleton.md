@@ -2,12 +2,14 @@
 title: 骨质外壳
 description: 
 published: true
-date: 2026-02-20T22:39:29.414Z
+date: 2026-02-20T23:13:15.331Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:39:29.414Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 骨质外壳
 
 编写: NocolorThinker
@@ -16,7 +18,7 @@ dateCreated: 2026-02-20T22:39:29.414Z
 
 **获取:** 准备阶段自选配件，试炼
 
-**适用装备:** [任何工具](/zh/hgw/items/equipments#装备)
+**适用装备:** [任何工具](/zh/hgw/items/equipments)
 
 **效果:** 
 
