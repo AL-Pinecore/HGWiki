@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:08:11.079Z
+date: 2026-02-20T14:09:03.805Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -37,9 +37,9 @@ dateCreated: 2026-02-20T13:54:15.643Z
   [一阶核心火炮](/zh/hgw/items/equipments#核心火炮)
 - 用于升级:
 **核心熔炉**等级（二阶核心高炉，三阶合金熔炼炉）
-  [三阶熔炼稿](/zh/hgw/items/equipments#稿)
+  [三阶熔炼稿](/zh/hgw/items/equipments#镐)
   [二阶钻石胸甲](/zh/hgw/items/equipments#护甲)
   [二阶进阶核心火炮](/zh/hgw/items/equipments#核心火炮)
   [三阶高级核心火炮](/zh/hgw/items/equipments#核心火炮)
 - 用于：
-提升核心熔炉[炉温](/hgw#炉温)
+提升核心熔炉[炉温](/hgw#炉温) *(点击了解更多)*
