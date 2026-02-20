@@ -2,7 +2,7 @@
 title: 纤维绳索
 description: 
 published: true
-date: 2026-02-20T14:08:25.980Z
+date: 2026-02-20T15:09:02.297Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:08:25.980Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-20T14:08:25.980Z
 
 # 纤维绳索
 
-***编辑: NocolorThinker***
+编辑: NocolorThinker
 
 ### 品质 任何
 
