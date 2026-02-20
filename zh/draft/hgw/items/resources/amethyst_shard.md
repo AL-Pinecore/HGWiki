@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-20T15:11:01.707Z
+date: 2026-02-20T15:58:38.347Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -23,7 +23,7 @@ dateCreated: 2026-02-20T13:58:12.516Z
 
 注：紫水晶簇可被挖掘时，周围会出现绿色粒子提醒，如下图
 
-![紫水晶刷新.png](/紫水晶刷新.png)
+![紫水晶刷新.png](/紫水晶刷新.png =300x)
 
 **获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一个紫晶碎片 :amethyst_shard:
