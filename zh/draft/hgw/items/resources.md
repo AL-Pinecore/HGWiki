@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-20T00:39:24.929Z
+date: 2026-02-20T01:15:29.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -39,7 +39,7 @@ dateCreated: 2026-02-18T15:34:10.882Z
 
 但是，该乐魂承受160点伤害后护甲会降回四阶护甲。
 可以重复购买，每只乐魂护甲独立。
-> 不推荐把紫水晶用于升级个人装备！
+> 不推荐把紫水晶用于升级[紫晶匕首](/hgw/items/equipments#匕首)或[晶械连弩](/hgw/items/equipments#自动弩)这些**个人装备**！
 {.is-warning}
 
 
