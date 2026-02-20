@@ -2,7 +2,7 @@
 title: 共振刀刃
 description: 
 published: true
-date: 2026-02-20T15:00:13.059Z
+date: 2026-02-20T22:53:46.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:00:52.189Z
@@ -20,7 +20,7 @@ dateCreated: 2026-02-20T14:00:52.189Z
 
 **效果:** 
 
-- 破甲能力: +[5,35]
+- 破甲能力: +[5,35]%
 
 **贴图:**
 ![resonant_blade_i.png](/icons/accessory/resonant_blade_i.png =150x150)![resonant_blade_ii.png](/icons/accessory/resonant_blade_ii.png =150x150)![resonant_blade_iii.png](/icons/accessory/resonant_blade_iii.png =150x150)![resonant_blade_iv.png](/icons/accessory/resonant_blade_iv.png =150x150)![resonant_blade_v.png](/icons/accessory/resonant_blade_v.png =150x150)
