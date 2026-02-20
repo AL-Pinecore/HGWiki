@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:11:30.183Z
+date: 2026-02-20T14:24:43.417Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 --- 
 
 - **简述**：
- 通过挖掘浅层煤矿石，深层煤矿石或煤炭块获得。它们会生成在[乐魂战](/quick-start#乐魂战)游戏中的[紫晶矿区](/hgw/maps#紫晶矿区)地图与八队混战地图的煤岛上，用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
+ 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们可以用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
 
 
 ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
@@ -33,13 +33,13 @@ dateCreated: 2026-02-20T13:54:15.643Z
 
 **用途**：
 - 用于购买：
-**小乐魂炮塔** :ghastling: （*最多8个*）
+  [恶魂炮台](/hgw/upgrades#小恶魂炮塔) :ghastling: （*每只恶魂最多8个*）
   [一阶核心火炮](/zh/hgw/items/equipments#核心火炮)
 - 用于升级:
-**核心熔炉**等级（二阶核心高炉，三阶合金熔炼炉）
-  [三阶熔炼稿](/zh/hgw/items/equipments#镐)
-  [二阶钻石胸甲](/zh/hgw/items/equipments#护甲)
-  [二阶进阶核心火炮](/zh/hgw/items/equipments#核心火炮)
-  [三阶高级核心火炮](/zh/hgw/items/equipments#核心火炮)
+  [核心熔炉等级](/hgw/upgrades#核心熔炉)（二阶核心高炉，三阶合金熔炼炉）
+  [三阶熔炼稿](/hgw/items/equipments#镐)
+  [二阶钻石胸甲](/hgw/items/equipments#护甲)
+  [二阶进阶核心火炮](/hgw/items/equipments#核心火炮)
+  [三阶高级核心火炮](/hgw/items/equipments#核心火炮)
 - 用于：
 提升核心熔炉[炉温](/hgw#炉温) *(点击了解更多)*
