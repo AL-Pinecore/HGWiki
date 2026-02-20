@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T13:50:00.089Z
+date: 2026-02-20T13:57:30.718Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -179,7 +179,7 @@ dps由你的精准度决定
 ![晶械连弩.png](/items/晶械连弩.png)
 **价格**：紫晶碎片x18
 **描述**：*置于主手或副手上时能够自动装填的自动弩，能够同时装填五支不同的弩箭*
-> 该物品只在地图[《紫晶矿区》](/hgw/maps#紫晶矿区)中可以获得。关于紫晶碎片，请前往[资源](/hgw/items/resources#紫晶碎片)页面
+> 该物品只在地图[《紫晶矿区》](/hgw/maps#紫晶矿区)中可以获得。关于紫晶碎片，请前往[资源](/hgw/items/resources/amethyst_shard)页面
 {.is-info}
 
 ## 重弩
@@ -316,7 +316,7 @@ dps由你的精准度决定
 ![紫晶匕首.png](/items/紫晶匕首.png)
 **价格**：紫晶碎片x12
 **描述**：*主手可近战攻击，右键将剑刃弹出。弹出的剑刃命中任意实体或方块后，将使用者向命中方向拉扯。命中实体时也会造成一定的弹射物伤害*
-> 该物品只在地图[《紫晶矿区》](/hgw/maps#紫晶矿区)中可以获得。关于紫晶碎片，请前往[资源](/hgw/items/resources#紫晶碎片)页面
+> 该物品只在地图[《紫晶矿区》](/hgw/maps#紫晶矿区)中可以获得。关于紫晶碎片，请前往[资源](/hgw/items/resources/amethyst_shard)页面
 {.is-info}
 
 
