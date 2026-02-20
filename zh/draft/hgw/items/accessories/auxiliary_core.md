@@ -2,7 +2,7 @@
 title: 附加核心
 description: 
 published: true
-date: 2026-02-20T22:00:53.243Z
+date: 2026-02-20T22:03:39.457Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:00:53.243Z
@@ -21,6 +21,7 @@ dateCreated: 2026-02-20T22:00:53.243Z
 **效果:** 
 
 - 爆炸威力: +[15,30]%
+- 
 
 **贴图:**
 
