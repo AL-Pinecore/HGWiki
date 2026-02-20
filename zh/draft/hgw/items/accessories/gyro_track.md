@@ -2,7 +2,7 @@
 title: 回旋轨道
 description: 
 published: true
-date: 2026-02-20T20:46:39.816Z
+date: 2026-02-20T22:25:04.410Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:46:39.816Z
@@ -26,3 +26,7 @@ dateCreated: 2026-02-20T20:46:39.816Z
 **贴图:**
 
 ![gyro_track_i.png](/icons/accessory/gyro_track_i.png =150x150)![gyro_track_ii.png](/icons/accessory/gyro_track_ii.png =150x150)![gyro_track_iii.png](/icons/accessory/gyro_track_iii.png =150x150)![gyro_track_iv.png](/icons/accessory/gyro_track_iv.png =150x150)![gyro_track_v.png](/icons/accessory/gyro_track_v.png =150x150)
+
+> 由于回旋轨道的效果是增加弹射物**基础伤害**，所以其增伤并非简单增加[0.05,0.10]
+> 其增伤词条可以看作 弹射物伤害: +[2.5,5.0]%
+{.is-info}
