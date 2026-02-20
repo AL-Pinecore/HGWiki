@@ -2,7 +2,7 @@
 title: 压电感应器
 description: 
 published: true
-date: 2026-02-20T16:36:19.346Z
+date: 2026-02-20T22:55:03.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T16:36:19.346Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-20T16:36:19.346Z
 
 # 压电感应器
 
-编辑: NocolorThinker
+编写: NocolorThinker
 
 ### 品质 任何
 
@@ -18,7 +18,7 @@ dateCreated: 2026-02-20T16:36:19.346Z
 
 **适用装备:** [自动弩](/zh/hgw/items/equipments#自动弩) [重弩](/zh/hgw/items/equipments#重弩)
 
-*若试图装备于重弩，则需要[自动化组件](/zh/draft/hgw/items/accessories/auto_module)作为前置配件*
+*若试图装备于重弩，则需要[自动化组件](/zh/hgw/items/accessories/auto_module)作为前置配件*
 
 
 **效果:** 
