@@ -2,16 +2,14 @@
 title: 消耗品
 description: 
 published: true
-date: 2026-02-20T01:32:01.318Z
+date: 2026-02-20T01:32:32.778Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:30:44.132Z
 ---
 
-> 该页面未完工！
-{.is-danger}
-
-
+> 该页面已经完工！
+{.is-success}
 
 # 消耗品
 
