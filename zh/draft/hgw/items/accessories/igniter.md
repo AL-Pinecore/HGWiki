@@ -2,12 +2,14 @@
 title: 引火装置
 description: 
 published: true
-date: 2026-02-20T20:25:48.563Z
+date: 2026-02-20T23:02:51.182Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:25:48.563Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 引火装置
 
 编辑: NocolorThinker
