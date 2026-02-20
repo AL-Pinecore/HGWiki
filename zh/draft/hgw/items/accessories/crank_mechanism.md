@@ -2,14 +2,14 @@
 title: 曲柄机构
 description: 
 published: true
-date: 2026-02-20T23:15:48.497Z
+date: 2026-02-20T23:16:07.357Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T23:15:48.497Z
 ---
 
-> 该页面已完工 待发布！
-{.is-success}
+> 该页面未完工！
+{.is-danger}
 # 曲柄机构
 
 编写: NocolorThinker
