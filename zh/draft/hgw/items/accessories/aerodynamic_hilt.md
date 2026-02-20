@@ -2,7 +2,7 @@
 title: 气动剑柄
 description: 
 published: true
-date: 2026-02-20T13:31:38.873Z
+date: 2026-02-20T13:33:13.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:20:50.790Z
@@ -16,7 +16,7 @@ dateCreated: 2026-02-20T13:20:50.790Z
 
 **获取:** 准备阶段自选配件，试炼
 
-**适用装备:** [剑](/zh/draft/hgw/items/equipments#近战武器#剑)
+**适用装备:** [剑](/zh/draft/hgw/items/equipments#近战武器##剑)
 
 **效果:** 
 
