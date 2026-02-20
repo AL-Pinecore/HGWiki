@@ -1,0 +1,32 @@
+---
+title: 曲柄机构
+description: 
+published: true
+date: 2026-02-20T23:15:48.497Z
+tags: 
+editor: markdown
+dateCreated: 2026-02-20T23:15:48.497Z
+---
+
+> 该页面已完工 待发布！
+{.is-success}
+# 曲柄机构
+
+编写: NocolorThinker
+
+### 品质 任何
+
+**获取:** 准备阶段自选配件，试炼
+
+**适用装备:** [弹射器](/zh/hgw/items/equipments#弹射器)
+
+**效果:** 
+
+-推进力度: +[8,15]%
+
+> 该词条下限值有待修订
+{.is-warning}
+
+**贴图:**
+
+![crank_mechanism_i.png](/icons/accessory/crank_mechanism_i.png =150x150)![crank_mechanism_ii.png](/icons/accessory/crank_mechanism_ii.png =150x150)![crank_mechanism_iii.png](/icons/accessory/crank_mechanism_iii.png =150x150)![crank_mechanism_iv.png](/icons/accessory/crank_mechanism_iv.png =150x150)![crank_mechanism_v.png](/icons/accessory/crank_mechanism_v.png =150x150)
