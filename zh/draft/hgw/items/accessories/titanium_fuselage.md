@@ -2,7 +2,7 @@
 title: 钛钢机身
 description: 
 published: true
-date: 2026-02-20T23:12:10.585Z
+date: 2026-02-20T23:34:20.916Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:52:30.176Z
@@ -18,7 +18,7 @@ dateCreated: 2026-02-20T22:52:30.176Z
 
 **获取:** 准备阶段自选配件，试炼
 
-**适用装备:** [重弩](/zh/hgw/items/equipments#重弩)
+**适用装备:** [弩](/zh/hgw/items/equipments#弩)
 
 **效果:** 
 
