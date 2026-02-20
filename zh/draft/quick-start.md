@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-20T15:24:40.421Z
+date: 2026-02-20T15:25:53.330Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -86,9 +86,9 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 ·  *[高阶升级的锹](/hgw/items/equipments#锹)附有**精准采集**，可以用它快速地直接获取**雪块**。*
 
-3. 挖掘地图中的[紫水晶簇](/hgw/items/resources#紫晶碎片)可以获取[紫晶碎片](/hgw/items/resources#紫晶碎片)。
+3. 挖掘地图中的[紫水晶簇](/hgw/items/resources/amethyst_shard)可以获取[紫晶碎片](/hgw/items/resources/amethyst_shard)。
 
-·  由于其高稀有度，玩家常常需要注意其[刷新时间](/hgw/items/resources#紫晶碎片)，来保证抢在其他队伍之前获取。
+·  由于其高稀有度，玩家常常需要注意其[刷新时间](/hgw/items/resources/amethyst_shard)，来保证抢在其他队伍之前获取。
 
 ---
 
@@ -137,7 +137,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 - 手持粗铁，将冶炼**铁锭\*1**；
 - 手持粗铜，将冶炼**铜锭\*1**。
  
-**（升级[熔炼镐](/hgw/items#镐)可以在挖掘矿石时直接获取金属锭，省去冶炼的时间）*
+**（升级[熔炼镐](/hgw/items/equipments#镐)可以在挖掘矿石时直接获取金属锭，省去冶炼的时间）*
 - 手持铁锭和铜锭，将冶炼**下界合金锭\*1**。
 - 手持原木，将冶炼**箭\*1**。
 - 手持原木和铁锭，将冶炼**箭\*5**。
