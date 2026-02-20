@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:06:48.833Z
+date: 2026-02-20T14:08:11.079Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -32,16 +32,14 @@ dateCreated: 2026-02-20T13:54:15.643Z
   挖掘煤炭块将会固定获得四个煤炭 :coal:
 
 **用途**：
-- 用于升级**核心熔炉**等级（二阶核心高炉，三阶合金熔炼炉）
-- 用于购买：**小乐魂炮塔** :ghastling: （*最多8个*）
 - 用于购买：
+**小乐魂炮塔** :ghastling: （*最多8个*）
   [一阶核心火炮](/zh/hgw/items/equipments#核心火炮)
-- 可以用于升级:
+- 用于升级:
+**核心熔炉**等级（二阶核心高炉，三阶合金熔炼炉）
   [三阶熔炼稿](/zh/hgw/items/equipments#稿)
   [二阶钻石胸甲](/zh/hgw/items/equipments#护甲)
   [二阶进阶核心火炮](/zh/hgw/items/equipments#核心火炮)
   [三阶高级核心火炮](/zh/hgw/items/equipments#核心火炮)
-- 可以用于提升核心熔炉炉温：
-  手持煤炭对准核心熔炉按住右键，等到屏幕正中间出现的读条读满之后，消耗手中一个煤炭提升一格核心熔炉炉温
-  [*关于炉温*](/zh/draft/hgw/mechanisms)
-  
+- 用于：
+提升核心熔炉[炉温](/hgw#炉温)
