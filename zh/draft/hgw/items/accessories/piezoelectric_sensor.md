@@ -2,7 +2,7 @@
 title: 压电感应器
 description: 
 published: true
-date: 2026-02-20T22:55:03.002Z
+date: 2026-02-20T22:55:13.996Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T16:36:19.346Z
@@ -30,5 +30,5 @@ dateCreated: 2026-02-20T16:36:19.346Z
 ![piezoelectric_sensor.png](/icons/accessory/piezoelectric_sensor.png =150x150)
 
 > 压电感应器的判定条件疑似为是否为"具有自动装填附魔的远程武器"
-> *~~等待验证~~*
+> *等待验证*
 {.is-info}
