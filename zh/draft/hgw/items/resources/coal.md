@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:37:19.072Z
+date: 2026-02-20T15:26:45.949Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -41,4 +41,4 @@ dateCreated: 2026-02-20T13:54:15.643Z
   [进阶核心火炮](/hgw/items/equipments#核心火炮) （二阶核心火炮）
   [高阶核心火炮](/hgw/items/equipments#核心火炮) （三阶核心火炮）
 - 用于：
-提升核心熔炉[炉温](/hgw#炉温)  ***(点击了解更多)***
+提升核心熔炉[炉温](/hgw#炉温)  ***([点击](/hgw#炉温)了解更多)***
