@@ -2,7 +2,7 @@
 title: 气动剑柄
 description: 
 published: true
-date: 2026-02-20T13:24:04.384Z
+date: 2026-02-20T13:26:59.355Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:20:50.790Z
@@ -23,7 +23,7 @@ dateCreated: 2026-02-20T13:20:50.790Z
 近战攻击速度+
 
 **贴图:**
-![aerodynamic_hilt_i.png](/icons/accessory/aerodynamic_hilt_i.png)
+:accessory/aerodynamic_hilt_i(1):
 ![aerodynamic_hilt_ii.png](/icons/accessory/aerodynamic_hilt_ii.png)
 ![aerodynamic_hilt_iii.png](/icons/accessory/aerodynamic_hilt_iii.png)
 ![aerodynamic_hilt_iv.png](/icons/accessory/aerodynamic_hilt_iv.png)
