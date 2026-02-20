@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:12:09.155Z
+date: 2026-02-20T15:16:27.154Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -44,6 +44,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
   [初级核心火炮](/zh/hgw/items/equipments#核心火炮) （一阶核心火炮）
   [绳索匕首](/zh/hgw/items/equipments#动力匕首) （一阶动力匕首）
   [钓鱼竿](/zh/hgw/items/equipments#钓鱼竿) （一阶钓鱼竿）
+  [恶魂炮台](/hgw/upgrades#恶魂炮台) :ghastling: **（*每只乐魂最多8个*）**
 - 用于升级:
   [铁剑](/zh/hgw/items/equipments#剑) （一阶剑）
   [风暴剑](/zh/hgw/items/equipments#剑) （二阶剑）
@@ -62,6 +63,11 @@ dateCreated: 2026-02-20T15:07:03.589Z
   [高级弹射器](/zh/hgw/items/equipments#弹射器) （三阶弹射器）
   [铁矛](/zh/hgw/items/equipments#矛) （二阶矛）
   [机械匕首](/zh/hgw/items/equipments#动力匕首) （二阶动力匕首）
+  **核心高炉**（二阶核心高炉）
+  [吊船](/zh/hgw/upgrades#吊船)提升最大血量上限 ~~（谁会点这个啊喂(#`O′)）~~
+  
+- 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
+- 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
   
   
   
