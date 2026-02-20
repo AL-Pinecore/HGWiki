@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T13:57:30.718Z
+date: 2026-02-20T14:12:23.773Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -193,8 +193,6 @@ dps由你的精准度决定
 帮助您在战斗中取得优势
 ## 护甲
 以守为攻！
-> 在核心熔炉花费 原木x20 可以更换胸甲附魔。
-{.is-info}
 
 ### 零阶 - 皮革套装
 ![皮革帽子.png](/items/皮革帽子.png)
