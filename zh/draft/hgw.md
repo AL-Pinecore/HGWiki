@@ -2,7 +2,7 @@
 title: 乐魂战
 description: 
 published: true
-date: 2026-02-20T05:04:19.795Z
+date: 2026-02-20T05:09:59.824Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:28:07.069Z
@@ -182,6 +182,8 @@ dateCreated: 2026-02-18T13:28:07.069Z
 
 ![下边界上升预览.png](/下边界上升预览.png)
 **缩圈后，该图片蓝色粒子以上的部分为安全区*
+
+**想了解地图中安全区的范围，请查看[缩圈](/hgw/boarder-shrink)页面。这有助于你驾驶乐魂！*
 
 > 你已经掌握了乐魂战的基本知识，快去上手尝试一下吧！
 {.is-success}
