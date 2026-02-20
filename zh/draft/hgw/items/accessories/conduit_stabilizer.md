@@ -2,7 +2,7 @@
 title: 潮涌稳定器
 description: 
 published: true
-date: 2026-02-20T23:08:00.535Z
+date: 2026-02-20T23:08:10.693Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T21:18:44.572Z
@@ -26,5 +26,3 @@ dateCreated: 2026-02-20T21:18:44.572Z
 
 **贴图:**
 
-![conduit_stabilizer.png](/icons/accessory/conduit_stabilizer.png =150x150)
-> *~~一定要装在重弩上（划掉~~*
