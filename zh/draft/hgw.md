@@ -2,7 +2,7 @@
 title: 乐魂战
 description: 
 published: true
-date: 2026-02-20T05:59:23.933Z
+date: 2026-02-20T15:23:59.671Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:28:07.069Z
@@ -65,11 +65,11 @@ dateCreated: 2026-02-18T13:28:07.069Z
 游戏一共有五种基础资源：
 - 原木 :log: - 最常见、最易采集、用量最大，用于基础升级。
 
-- 铁锭 :iron\_ingot: - 较常见、用途广泛，用于基础升级。
+- [铁锭](/hgw/items/resources/iron) :iron\_ingot: - 较常见、用途广泛，用于基础升级。
 
 - 铜锭 :copper\_ingot: - 少见、用量少，用于[冶炼](#冶炼)和基础升级。
 
-- 煤炭 :coal: - 较常见、易采集、用途较少，用于基础升级和**核心熔炉升级**。
+- [煤炭](/hgw/items/resources/coal) :coal: - 较常见、易采集、用途较少，用于基础升级和**核心熔炉升级**。
 
 - 雪块 :snow\_block: - 分布区域极少、极易采集，用于乐魂升级和**自动回血**。
 
@@ -77,7 +77,7 @@ dateCreated: 2026-02-18T13:28:07.069Z
 
 - 下界合金锭 :netherite\_ingot: - 通过铁和铜[冶炼](#冶炼)获得，用于高阶升级。
 
-- [紫晶碎片](/hgw/items/resources#紫晶碎片) :amethyst\_shard: - **紫晶矿区地图**独有。最稀有、分布集中、生长缓慢，用于最高阶升级。
+- [紫晶碎片](/hgw/items/resources/amethyst_shard) :amethyst\_shard: - **紫晶矿区地图**独有。最稀有、分布集中、生长缓慢，用于最高阶升级。
 
 这些资源（除下界合金）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
 
