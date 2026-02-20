@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-20T12:03:47.244Z
+date: 2026-02-20T15:24:40.421Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -63,13 +63,13 @@ dateCreated: 2026-02-18T13:27:36.478Z
 {.is-info}
 
 游戏一共有五种基础资源：
-- :log: 原木 ， :iron\_ingot: 铁锭 ， :copper\_ingot: 铜锭 ， :coal: 煤炭 ，   :snow\_block: 雪块
+- :log: 原木 ， :iron\_ingot: [铁锭](/hgw/items/resources/iron) ， :copper\_ingot: 铜锭 ， :coal: [煤炭](/hgw/items/resources/coal) ，   :snow\_block: 雪块
 
 以及两种高级资源：
 
 - :netherite\_ingot: 下界合金锭 - 通过铁和铜[冶炼](#冶炼)获得，用于高阶升级。
 
-- :amethyst\_shard: [紫晶碎片](/hgw/items/resources#紫晶碎片) - **紫晶矿区地图**独有，用于最高阶升级。
+- :amethyst\_shard: [紫晶碎片](/hgw/items/resources/amethyst_shard) - **紫晶矿区地图**独有，用于最高阶升级。
 
 这些资源（除下界合金锭）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
 
