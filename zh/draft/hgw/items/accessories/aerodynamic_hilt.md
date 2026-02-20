@@ -2,7 +2,7 @@
 title: 气动剑柄
 description: 
 published: true
-date: 2026-02-20T13:20:50.790Z
+date: 2026-02-20T13:24:04.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:20:50.790Z
@@ -16,9 +16,11 @@ dateCreated: 2026-02-20T13:20:50.790Z
 
 **获取:** 初始选取，试炼
 
-**适用装备:** [近战武器](/zh/draft/hgw/items/equipments#近战武器)
+**适用装备:** [剑](/zh/draft/hgw/items/equipments#近战武器#剑)
 
-**效果:** 箭矢对敌方隐形
+**效果:** 
+近战伤害+
+近战攻击速度+
 
 **贴图:**
 ![aerodynamic_hilt_i.png](/icons/accessory/aerodynamic_hilt_i.png)
