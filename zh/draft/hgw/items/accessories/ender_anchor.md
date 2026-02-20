@@ -2,7 +2,7 @@
 title: 末影锚
 description: 
 published: true
-date: 2026-02-20T14:39:08.421Z
+date: 2026-02-20T14:40:43.606Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:25:43.240Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T14:25:43.240Z
 
 ### 品质 仅金色
 
-**获取:** 试炼
+**获取:** *~~该配件目前没有获取方式~~*  试炼
 
 **适用装备:** [动力匕首](/zh/hgw/items/equipments#动力匕首)
 
@@ -25,4 +25,4 @@ dateCreated: 2026-02-20T14:25:43.240Z
 **贴图:**
 ![ender_anchor.png](/icons/accessory/ender_anchor.png =150x150)
 
-~~这东西真的存在吗~~
+> *~~这东西真的存在吗~~*
