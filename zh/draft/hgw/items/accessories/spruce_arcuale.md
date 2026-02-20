@@ -2,7 +2,7 @@
 title: 云杉弓片
 description: 
 published: true
-date: 2026-02-20T22:54:20.341Z
+date: 2026-02-20T22:54:26.072Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:03:32.359Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-20T20:03:32.359Z
 
 # 云杉弓片
 
-编: NocolorThinker
+编写: NocolorThinker
 
 ### 品质 任何
 
