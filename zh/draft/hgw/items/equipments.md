@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T19:40:57.263Z
+date: 2026-02-20T19:41:11.786Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -27,7 +27,7 @@ dateCreated: 2026-02-18T15:31:14.724Z
  | [护甲](#护甲) | [盾牌](#盾牌) | [核心火炮](#核心火炮) | [弹射器](#弹射器) |  [钓鱼竿](#钓鱼竿) |
 - 地图限定装备
  **浮岛竞技场**:  暂无
- **紫晶矿区**:  | [紫晶匕首](/zh/hgw/items/equipments/epic_tele_blade) | [晶械连弩](/zh/hgw/items/equipments/crystal_crossbow) 
+ **紫晶矿区**:  | [紫晶匕首](/zh/hgw/items/equipments/epic_tele_blade) | [晶械连弩](/zh/hgw/items/equipments/crystal_crossbow)   | 
 
 编写：珍枝Zhenzhi & NocolorThinker
 
