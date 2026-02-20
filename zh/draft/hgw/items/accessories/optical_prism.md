@@ -2,12 +2,14 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-20T22:54:05.088Z
+date: 2026-02-20T22:59:37.641Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 光学棱镜
 
 编写: NocolorThinker
