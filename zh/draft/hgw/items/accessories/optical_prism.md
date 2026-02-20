@@ -2,7 +2,7 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-20T13:31:46.739Z
+date: 2026-02-20T13:46:04.114Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T13:10:51.490Z
 
 ### 品质 仅蓝色
 
-**获取:** 初始选取，试炼
+**获取:** 准备阶段自选配件，试炼
 
 **适用装备:** [远程武器](/zh/draft/hgw/items/equipments#远程武器)
 
