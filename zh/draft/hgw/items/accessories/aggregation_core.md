@@ -2,11 +2,14 @@
 title: 聚合核心
 description: 
 published: true
-date: 2026-02-20T13:52:25.552Z
+date: 2026-02-20T13:56:56.365Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:52:25.552Z
 ---
+
+> 该页面未完工
+{.is-danger}
 
 # 聚合核心
 
