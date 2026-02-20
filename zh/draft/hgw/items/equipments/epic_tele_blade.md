@@ -2,7 +2,7 @@
 title: 紫晶匕首
 description: 
 published: true
-date: 2026-02-20T17:00:08.670Z
+date: 2026-02-20T17:08:33.862Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T17:00:08.670Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-20T17:00:08.670Z
 
 # 四阶动力匕首 - 紫晶匕首
 
-编写: 珍枝Zhenzhi
+编写: 珍枝Zhenzhi & NocolorThinker
 
 ![紫晶匕首.png](/items/紫晶匕首.png =300x)
 **价格**：紫晶碎片x12
