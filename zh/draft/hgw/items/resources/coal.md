@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T14:24:43.417Z
+date: 2026-02-20T14:28:08.727Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -19,8 +19,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 --- 
 
 - **简述**：
- 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们可以用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
-
+ 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
 ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在大煤炭岛上的普通煤矿石~ ~一个生成在大煤炭岛上的深层煤矿石~ ~一个生成在大煤炭岛上的煤炭块~
