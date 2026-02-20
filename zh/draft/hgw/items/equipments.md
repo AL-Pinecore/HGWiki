@@ -2,17 +2,14 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T01:11:33.831Z
+date: 2026-02-20T01:17:57.650Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
 ---
 
-> 该页面未完工！
-{.is-danger}
-
-
-
+> 该页面已完工！
+{.is-success}
 
 # 装备
 
