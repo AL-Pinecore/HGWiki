@@ -2,12 +2,14 @@
 title: 动能核心
 description: 
 published: true
-date: 2026-02-20T22:45:50.874Z
+date: 2026-02-20T23:00:14.884Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:45:40.495Z
 ---
 
+> 该页面已完工 待发布！
+{.is-success}
 # 动能核心
 
 编写: NocolorThinker
