@@ -2,7 +2,7 @@
 title: 草稿
 description: 
 published: true
-date: 2026-02-20T16:02:13.683Z
+date: 2026-02-20T16:53:42.721Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:26:20.583Z
@@ -39,6 +39,67 @@ draft目录是wiki根目录的镜像，是对公共隐藏的。对draft目录的
 
 字体大小与正文一样，无斜体，无粗体
 
+## 页面状态标注
+
+当页面第一次创建并且未完成时
+
+> 该页面未完工！
+{.is-danger}
+
+```
+> 该页面未完工！
+{.is-danger}
+```
+
+---
+
+当页面已完成后
+
+> 该页面已完工 待发布！
+{.is-success}
+
+```
+> 该页面已完工 待发布！
+{.is-success}
+```
+
+---
+
+当页面发布后
+
+> 该页面已发布
+{.is-info}
+
+```
+> 该页面已发布
+{.is-info}
+```
+
+---
+
+当页面在已发布状态后被修改
+
+> 该页面修改中！
+{.is-warning}
+
+```
+> 该页面修改中！
+{.is-warning}
+```
+
+---
+
+当页面修改完成
+
+> 该页面已修改 待发布！
+{.is-success}
+
+```
+> 该页面修改中！
+{.is-warning}
+```
+
+---
 
 
 相关链接：[hgwiki结构](/private/structure) | [wiki.js官方文档](https://docs.requarks.io/guide/intro) | [图标使用](/private/icons)
