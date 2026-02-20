@@ -2,7 +2,7 @@
 title: 升级
 description: 
 published: false
-date: 2026-02-20T12:42:41.941Z
+date: 2026-02-20T19:55:08.594Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T12:42:41.941Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T12:42:41.941Z
 {.is-danger}
 
 
-# 升级
+# 核心商店
 
 本页旨在帮助您了解[乐魂战](/hgw)中升级的价格以及作用。
 
