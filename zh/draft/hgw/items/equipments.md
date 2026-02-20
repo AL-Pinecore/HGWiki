@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-20T20:52:14.630Z
+date: 2026-02-20T22:26:15.115Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -30,8 +30,6 @@ dateCreated: 2026-02-18T15:31:14.724Z
  **浮岛竞技场**:  暂无
  **紫晶矿区**:  | [紫晶匕首](/zh/hgw/items/equipments/epic_tele_blade) | [晶械连弩](/zh/hgw/items/equipments/crystal_crossbow)   | 
  
-- *~~彩蛋物品~~*
-*~~| [铁砧](/zh/hgw/items/equipments/anvil) |~~*
 
 编写：珍枝Zhenzhi & NocolorThinker
 
