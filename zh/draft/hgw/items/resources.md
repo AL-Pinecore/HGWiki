@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-20T13:23:36.771Z
+date: 2026-02-20T13:26:15.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -20,12 +20,12 @@ dateCreated: 2026-02-18T15:34:10.882Z
 目录：
 - | |
 
-编写：kongyu14 & 珍枝Zhenzhi
+编写：kongyu14 & 珍枝Zhenzhi ＆ yeyingQAQ
 
 ## 煤炭 :coal:
 **简述**
 通过挖掘煤矿石，深层煤矿石和煤炭块获得。它们会生成在[乐魂战](/quick-start#乐魂战)游戏中的[紫晶矿区](/hgw/maps#紫晶矿区)地图与八队混战地图，用于购买装备，提升核心熔炉等级，提升核心熔炉炉温。
-![waite.png](/icons/function-images/waite.png)
+![waite.png](/icons/function-images/waite.png=50x50)
 获取
 **用途**：
 - 用于升级**核心熔炉**等级
@@ -48,7 +48,7 @@ dateCreated: 2026-02-18T15:34:10.882Z
 
 
 
-## 紫晶碎片
+## 紫晶碎片:amethyst_shard:
 **简述**
 通过挖掘紫水晶簇获得。它生成于[乐魂战](/quick-start#乐魂战)游戏中的[《紫晶矿区》](/hgw/maps#紫晶矿区)地图，用来升级最高阶的装备和乐魂装甲。下面的图片标注了紫水晶簇会出现的位置，共三处。
 
