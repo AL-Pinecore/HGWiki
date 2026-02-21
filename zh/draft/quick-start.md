@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T03:38:19.035Z
+date: 2026-02-21T06:22:18.379Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -49,7 +49,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 - [配件](/hgw/items/accessories)分为五个不同的**品质等级**。等级越高，它带来的加成越强，同时副作用也会越轻。
   *（ 品质等级：白色 < 绿色 < 蓝色 < 紫色 < 金色 ）*
 
-玩家在该阶段无法行动，只能 <kbd>跳跃</kbd> 打开商店，或 <kbd>潜行</kbd> 重新选择[配件](/hgw/items/accessories) 。
+玩家在该阶段无法行动，只能 <kbd>跳跃</kbd> 打开商店，或 <kbd>潜行</kbd> 重新选择[配件](/hgw/items/accessories) 。*（但不用担心来不及选择，时间结束会自动挑选左下角五个品质最好的配件。)*
 
 ![配件.jpg](/插图/配件.jpg =300x) 
 **该配件的品质等级是绿色，且只适用于远程武器。*
