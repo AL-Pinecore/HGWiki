@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-21T09:07:41.104Z
+date: 2026-02-21T09:07:59.029Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -26,4 +26,4 @@ dateCreated: 2026-02-18T15:34:10.882Z
 :coal(20):[煤炭](/hgw/items/resources/coal) 
 :snow_block(20):[雪块](/hgw/items/resources/snow-block) 
 :netherite_ingot(20):[下界合金锭](/hgw/items/resources/netherite-ingot) 
-amethyst_shard(20):[紫晶碎片](/hgw/items/resources/amethyst_shard) : ***（[紫晶矿区](/hgw/maps#紫晶矿区)地图独有）***
+:amethyst_shard(20):[紫晶碎片](/hgw/items/resources/amethyst_shard) : ***（[紫晶矿区](/hgw/maps#紫晶矿区)地图独有）***
