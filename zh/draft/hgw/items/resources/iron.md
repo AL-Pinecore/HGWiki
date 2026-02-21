@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T06:13:25.123Z
+date: 2026-02-21T08:47:43.565Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
 {.is-danger}
 
 # 铁锭
-铁锭 :iron_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
+**铁锭** :iron_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
 编写：yeyingQAQ & 珍枝Zhenzhi
 
@@ -21,13 +21,13 @@ dateCreated: 2026-02-20T15:07:03.589Z
 - **简述**：
   该资源需通过地图上固定点位的**浅层铁矿石，深层铁矿石或粗铁块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
-![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
+![iron.png](/icons/resources/iron.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在大铁岛上的普通铁矿石~ ~一个生成在大铁岛上的深层铁矿石~ ~一个生成在大铁岛上的粗铁块~
 
 ---
 
 **获取**
-- 游戏开始时，玩家将获得50个铁锭 :iron_ingot:
+- 游戏开始时，玩家将获得50个**铁锭** :iron_ingot:
 点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
