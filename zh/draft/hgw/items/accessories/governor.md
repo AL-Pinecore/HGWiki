@@ -2,7 +2,7 @@
 title: 调速机构
 description: 
 published: true
-date: 2026-02-20T23:11:39.216Z
+date: 2026-02-21T12:07:14.717Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:27:53.503Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:27:53.503Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
