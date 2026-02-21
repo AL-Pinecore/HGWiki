@@ -2,7 +2,7 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T09:13:41.247Z
+date: 2026-02-21T09:52:11.648Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -27,8 +27,8 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 **获取**
 - 游戏开始时，玩家将获得30个**铜锭** :copper_ingot:
-点击查看详情：[初始物资](/zh/hgw/mechanisms)
-- 手持**粗铜**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铜**，获得一个**铜锭** :copper_ingot:
+点击查看详情：[初始物资](/hgw/mechanisms/starting)
+- 手持**粗铜**对准核心熔炉长按右键，开始[冶炼](/hgw/mechanisms/smelting)。随后消耗一个**粗铜**，获得一个**铜锭** :copper_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将直接获得一至两个**铜锭** :copper_ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铜块将会直接固定获得四个**铜锭** :copper_ingot: 
 - 地图中的木桶有概率会生成**铜锭** :copper_ingot:
@@ -46,16 +46,16 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 **用途**：
 - 用于购买：
-  [铜矛](/hgw/items/equipments#铜矛) （一阶矛）
+  [铜矛](/hgw/items/equipments#矛) （一阶矛）
 
 - 用于升级:
-  [复合弓](/hgw/items/equipments#复合弓) （二阶弓） 
-  [机械弩](/hgw/items/equipments#机械弩) （三阶弩） 
+  [复合弓](/hgw/items/equipments#弓) （二阶弓） 
+  [机械弩](/hgw/items/equipments#自动弩) （三阶弩） 
   [钓鱼竿](/hgw/items/equipments#钓鱼竿) （二阶钓鱼竿） 
-  [进阶弹射器](/hgw/items/equipments#进阶弹射器) （二阶弹射器） 
-  [机械匕首](/hgw/items/equipments#机械匕首) （二阶匕首）
+  [进阶弹射器](/hgw/items/equipments#弹射器) （二阶弹射器） 
+  [机械匕首](/hgw/items/equipments#动力匕首) （二阶匕首）
   
-- 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
+- 用于制作合金锭：详细请查看[冶炼](/hgw/mechanisms/smelting)
 
 ---
 **历史**
