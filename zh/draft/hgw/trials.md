@@ -2,7 +2,7 @@
 title: 试炼
 description: 
 published: false
-date: 2026-02-21T05:56:30.397Z
+date: 2026-02-21T09:07:38.754Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T12:45:36.995Z
@@ -20,7 +20,7 @@ dateCreated: 2026-02-20T12:45:36.995Z
 
 编写：
 
-# 紫晶矿区（24v24）
+# 紫晶矿区
 
 
 ~~我个byd试炼的炼全写成练了~~（哭
