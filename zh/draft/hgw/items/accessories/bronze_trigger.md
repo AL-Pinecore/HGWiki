@@ -2,7 +2,7 @@
 title: 青铜悬刀
 description: 
 published: true
-date: 2026-02-20T23:13:00.733Z
+date: 2026-02-21T12:11:48.035Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:20:11.308Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T20:20:11.308Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
