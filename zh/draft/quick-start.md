@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T06:58:36.157Z
+date: 2026-02-21T07:30:49.597Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -35,6 +35,8 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 
 ## 准备阶段
+
+![准备阶段.png](/准备阶段.png =250x)
 
 玩家会被给予石剑，石斧，石镐，木铲，[望远镜](/hgw/items/equipments#望远镜)，[初始弹射器](/hgw/items/equipments#弹射器)，收纳袋，以及一些矿产资源。
 
