@@ -2,7 +2,7 @@
 title: 聚合核心
 description: 
 published: true
-date: 2026-02-20T23:10:39.005Z
+date: 2026-02-21T12:06:40.614Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:52:25.552Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T13:52:25.552Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
