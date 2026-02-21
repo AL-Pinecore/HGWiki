@@ -2,7 +2,7 @@
 title: 卫道士
 description: 
 published: true
-date: 2026-02-21T09:08:57.547Z
+date: 2026-02-21T09:23:37.335Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T09:08:57.547Z
@@ -32,7 +32,7 @@ dateCreated: 2026-02-21T09:08:57.547Z
 
 ## 数值
 最大生命值：24
-攻击伤害：7点
+攻击伤害：7。5
 高度：1.95
 宽度：0.6
 有效攻击距离：1.5
