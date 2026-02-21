@@ -2,7 +2,7 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T11:42:32.729Z
+date: 2026-02-21T13:47:51.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
@@ -35,6 +35,11 @@ dateCreated: 2026-02-21T04:47:20.233Z
 **雪球的获取**
 - 使用零阶的[锹](/hgw/items/equipments#锹)挖掘**雪块** :snow_block: 将获得一个**雪球**
 - 使用一阶与二阶的[锹](/hgw/items/equipments#锹)挖掘**雪块** :snow_block: 将获得三个**雪球**
+---
+**机制**
+- 雪块不仅可以作为资源，也可以被玩家**放置**
+雪块在玩家放置之后将开始融化~(既开始逐渐出现破坏纹理)~15秒之后将会消失
+
 ---
 
 **用途**：
