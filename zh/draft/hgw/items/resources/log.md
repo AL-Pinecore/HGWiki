@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T08:53:07.867Z
+date: 2026-02-21T08:57:44.451Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -18,8 +18,8 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 --- 
 
-- **简述**：
-  该资源需通过地图上任意种类的原木或去皮原木获得。它们被挖掘后无论种类，都会在玩家背包内加入一个橡木原木，并会随着时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
+**简述**：
+ - 该资源需通过地图上任意种类的原木或去皮原木获得。它们被挖掘后无论种类，都会在玩家背包内加入一个橡木原木，并会随着时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
 
 ![log.png](/icons/resources/log.png =200x200) ![log-crafted.png](/icons/resources/log-crafted.png =200x200) ![log-frost.png](/icons/resources/log-frost.png =200x200)
 ~一个生成在紫晶矿区中的云杉木原木~ ~一个生成在紫晶矿区中的去皮云杉原木~ ~一个生成在紫晶矿区中的从林木原木~
