@@ -1,8 +1,8 @@
 ---
-title: 铜
+title: 铜锭
 description: 
 published: true
-date: 2026-02-21T02:47:47.267Z
+date: 2026-02-21T03:37:38.353Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
