@@ -2,7 +2,7 @@
 title: 共振刀刃
 description: 
 published: true
-date: 2026-02-20T22:59:50.952Z
+date: 2026-02-21T11:26:39.916Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:00:52.189Z
@@ -14,7 +14,10 @@ dateCreated: 2026-02-20T14:00:52.189Z
 
 编写: NocolorThinker
 
-### 品质 任何
+---
+
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
