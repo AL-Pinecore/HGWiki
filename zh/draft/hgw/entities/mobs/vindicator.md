@@ -2,7 +2,7 @@
 title: 卫道士
 description: 
 published: true
-date: 2026-02-21T10:18:40.694Z
+date: 2026-02-21T10:19:37.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T09:08:57.547Z
@@ -13,7 +13,7 @@ dateCreated: 2026-02-21T09:08:57.547Z
 
 
 # 卫道士
-本页旨在本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的[试炼](/hgw/mechanisms/trials)怪物：卫道士
+本页旨在本页旨在帮助您了解[乐魂战](/hgw)中的[试炼](/hgw/trials)怪物：卫道士
 
 目录：| [行为](#行为) | [数值](#数值) | [生成](#生成) |
 
@@ -38,7 +38,7 @@ dateCreated: 2026-02-21T09:08:57.547Z
 - 攻击伤害：7.5
 - 高度：1.95格
 - 宽度：0.6格
-
+- 攻击间隔：1s
 ## 生成
 ![试炼1a.png](/trials1a.png =350x) ![试炼1b.png](/trials1b.png =321x)
 **图中红框标注的试炼刷怪笼会生成卫道士*
