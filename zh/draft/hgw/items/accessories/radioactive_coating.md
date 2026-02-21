@@ -2,7 +2,7 @@
 title: 放射性镀层
 description: 
 published: true
-date: 2026-02-21T11:32:59.719Z
+date: 2026-02-21T11:33:53.687Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:17:36.178Z
@@ -30,3 +30,6 @@ dateCreated: 2026-02-20T22:17:36.178Z
 **贴图:**
 
 ![radioactive_coating_iii.png](/icons/accessory/radioactive_coating_iii.png =150x150)
+
+
+> 用你的核心火炮将群岛化为切尔诺贝利 ——NocolorThinker
