@@ -2,7 +2,7 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T08:48:24.811Z
+date: 2026-02-21T08:55:38.731Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -18,8 +18,8 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 --- 
 
-- **简述**：
-  该资源需通过地图上固定点位的**浅层铜矿石或粗铜块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
+**简述**：
+ - 该资源需通过地图上固定点位的**浅层铜矿石或粗铜块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
 
 ![copper.png](/icons/resources/copper.png =200x200) ![copper-block.png](/icons/resources/copper-block.png =200x200)
 ~一个生成在大铜岛上的浅层铜矿石~  ~一个生成在大铜岛上的粗铜块~
@@ -60,6 +60,6 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 ---
 **历史**
-乐魂战v1.0.1 :copper_ingot: 加入了铜锭与粗铜
+乐魂战v1.0.1 :copper_ingot: 加入了**铜锭**与**粗铜**
 
   
