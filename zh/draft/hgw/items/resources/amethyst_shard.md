@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-21T03:03:01.468Z
+date: 2026-02-21T08:44:45.613Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -28,20 +28,20 @@ dateCreated: 2026-02-20T13:58:12.516Z
 ---
 
 **获取**
-- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一个紫晶碎片 :amethyst_shard:
-- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一至两个紫晶碎片 :amethyst_shard:
+- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一个**紫晶碎片** :amethyst_shard:
+- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一至两个**紫晶碎片** :amethyst_shard:
 
 ---
 
 **用途**
-- 在**合金熔炼炉**中，紫晶碎片可以用来升级：
+- 在**合金熔炼炉**中，**紫晶碎片**可以用来升级：
   [紫晶匕首](/hgw/items/equipments/epic_tele_blade)（四阶动力匕首）
 [晶械连弩](/hgw/items/equipments/crystal_crossbow)（四阶自动弩）
 [晶化装甲](/hgw/upgrades#晶化装甲)（五阶乐魂护甲）
 
-> 不推荐把紫晶碎片用于升级[紫晶匕首](/hgw/items/equipments/epic_tele_blade)或[晶械连弩](/hgw/items/equipments/crystal_crossbow)这些**个人装备**！
+> 不推荐把**紫晶碎片**用于升级[紫晶匕首](/hgw/items/equipments/epic_tele_blade)或[晶械连弩](/hgw/items/equipments/crystal_crossbow)这些**个人装备**！
 {.is-warning}
 
 ---
 **历史**
-乐魂战v1.2 :amethyst_shard: 加入了紫水晶，紫水晶母岩与紫水晶簇
+乐魂战v1.2 :amethyst_shard: 加入了**紫水晶**，紫水晶母岩与紫水晶簇
