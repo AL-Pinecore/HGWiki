@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-20T15:26:45.949Z
+date: 2026-02-21T02:48:52.203Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -24,11 +24,15 @@ dateCreated: 2026-02-20T13:54:15.643Z
 ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在大煤炭岛上的普通煤矿石~ ~一个生成在大煤炭岛上的深层煤矿石~ ~一个生成在大煤炭岛上的煤炭块~
 
+---
+
 **获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个煤炭 :coal:
   挖掘煤炭块将会获得三个煤炭 :coal:
 - 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个煤炭 :coal:
   挖掘煤炭块将会固定获得四个煤炭 :coal:
+
+---
 
 **用途**：
 - 用于购买：
@@ -42,3 +46,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
   [高阶核心火炮](/hgw/items/equipments#核心火炮) （三阶核心火炮）
 - 用于：
 提升核心熔炉[炉温](/hgw#炉温)  ***([点击](/hgw#炉温)了解更多)***
+
+---
+**历史**
+乐魂战v1.1 :coal: 加入了煤炭
