@@ -2,7 +2,7 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T11:15:07.336Z
+date: 2026-02-21T11:42:32.729Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
@@ -33,8 +33,8 @@ dateCreated: 2026-02-21T04:47:20.233Z
 {.is-info}
 
 **雪球的获取**
-- 使用零阶的[锹](/hgw/items/equipments#锹)挖掘**雪块**将获得一个**雪球**
-- 使用一阶与二阶的[锹](/hgw/items/equipments#锹)挖掘**雪块**将获得三个**雪球**
+- 使用零阶的[锹](/hgw/items/equipments#锹)挖掘**雪块** :snow_block: 将获得一个**雪球**
+- 使用一阶与二阶的[锹](/hgw/items/equipments#锹)挖掘**雪块** :snow_block: 将获得三个**雪球**
 ---
 
 **用途**：
