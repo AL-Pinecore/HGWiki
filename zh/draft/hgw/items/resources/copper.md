@@ -2,7 +2,7 @@
 title: 铜
 description: 
 published: true
-date: 2026-02-21T02:42:45.234Z
+date: 2026-02-21T02:46:37.256Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -13,7 +13,7 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 # 铜锭
 铜锭 :copper_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
- ~~最多的资源~~
+ *~~最多的资源~~*
 编写：yeyingQAQ & 珍枝Zhenzhi
 
 --- 
@@ -55,4 +55,9 @@ dateCreated: 2026-02-21T02:32:34.957Z
   [机械匕首](/hgw/items/equipments#机械匕首) （二阶匕首）
   
 - 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
+
+---
+**历史**
+乐魂战v1.1 :copper_ingot: 加入了铜锭与粗铜
+
   
