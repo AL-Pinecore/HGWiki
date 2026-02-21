@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T06:10:17.591Z
+date: 2026-02-21T08:34:24.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -45,7 +45,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 **用途**：
 - 用于购买：
-  [乐魂一级护甲](/hgw/items/equipments#乐魂一级护甲) （一级护甲）
+  [一级乐魂护甲](/hgw/items/equipments#乐魂护甲) （一级乐魂护甲）
   [弓](/hgw/items/equipments#弓) （一阶弓）
   [弩](/hgw/items/equipments#弩) （一阶弩）
   [连射弩](/hgw/items/equipments#自动弩) （二阶自动弩）
@@ -56,7 +56,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
   [铜矛](/hgw/items/equipments#铜矛) （一阶矛）
 
 - 用于升级:
-  [乐魂二级护甲](/hgw/items/equipments#乐魂二级护甲) （二级护甲）
+  [二级乐魂护甲](/hgw/items/equipments#乐魂护甲) （二级乐魂护甲）
   [风暴剑](/hgw/items/equipments#剑) （二阶剑）
   [时运镐](/hgw/items/equipments#镐) （二阶镐）
   [效率铁斧](/hgw/items/equipments#斧) （二阶斧）
