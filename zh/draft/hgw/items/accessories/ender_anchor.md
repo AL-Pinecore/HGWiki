@@ -2,7 +2,7 @@
 title: 末影锚
 description: 
 published: true
-date: 2026-02-20T23:05:04.217Z
+date: 2026-02-21T00:18:34.409Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:25:43.240Z
@@ -27,4 +27,8 @@ dateCreated: 2026-02-20T14:25:43.240Z
 **贴图:**
 ![ender_anchor.png](/icons/accessory/ender_anchor.png =150x150)
 
-> *这东西真的存在吗 ——NocolorThinker*
+> *这东西真的存在吗？ ——NocolorThinker*
+
+
+## 历史
+移除了蓄力速度-%的词条
