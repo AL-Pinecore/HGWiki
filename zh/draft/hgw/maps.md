@@ -2,7 +2,7 @@
 title: 地图
 description: 
 published: true
-date: 2026-02-21T06:58:54.518Z
+date: 2026-02-21T10:11:59.561Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:35:52.323Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-18T15:35:52.323Z
 
 # 地图（乐魂战）
 
-本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的地图，[安全区](/hgw#缩圈阶段)大小，以及限定物品。
+本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的地图，[安全区](/hgw/mechanisms/boardershrink)大小，以及限定物品。
 
 目录：| [紫晶矿区](#紫晶矿区) |
 
