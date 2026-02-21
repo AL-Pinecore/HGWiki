@@ -2,7 +2,7 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-20T22:59:37.641Z
+date: 2026-02-21T06:31:25.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T13:10:51.490Z
 {.is-success}
 # 光学棱镜
 
-编写: NocolorThinker
+编写: NocolorThinker&yuan__zhe
 
 ### 品质 仅蓝色
 
@@ -26,3 +26,5 @@ dateCreated: 2026-02-20T13:10:51.490Z
 
 **贴图:**
 ![optical_prism.png](/icons/accessory/optical_prism.png =150x150)
+
+> 如果您有阴人的需求，就搭配隐身药水使用它吧。 ——yuan__zhe
