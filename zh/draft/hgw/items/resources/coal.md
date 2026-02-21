@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-21T07:50:47.375Z
+date: 2026-02-21T08:43:49.467Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 {.is-danger}
 
 # 煤炭
-煤炭 :coal: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
+**煤炭** :coal: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
 编写：yeyingQAQ & 珍枝Zhenzhi
 
@@ -27,12 +27,12 @@ dateCreated: 2026-02-20T13:54:15.643Z
 ---
 
 **获取**
-- 游戏开始时，玩家将获得35个煤炭 :coal:
+- 游戏开始时，玩家将获得35个**煤炭** :coal:
 点击查看详情：[初始物资](/zh/hgw/mechanisms)
-- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个煤炭 :coal:
-  挖掘煤炭块将会获得三个煤炭 :coal:
-- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个煤炭 :coal:
-  挖掘煤炭块将会固定获得四个煤炭 :coal:
+- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个**煤炭** :coal:
+  挖掘煤炭块将会获得三个**煤炭** :coal:
+- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个**煤炭** :coal:
+  挖掘煤炭块将会固定获得四个**煤炭** :coal:
 
 ---
 
@@ -51,4 +51,4 @@ dateCreated: 2026-02-20T13:54:15.643Z
 
 ---
 **历史**
-乐魂战v1.0 :coal: 加入了煤炭
+乐魂战v1.0 :coal: 加入了**煤炭**
