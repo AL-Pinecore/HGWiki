@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-21T02:48:52.203Z
+date: 2026-02-21T04:15:25.451Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -27,6 +27,8 @@ dateCreated: 2026-02-20T13:54:15.643Z
 ---
 
 **获取**
+- 游戏开始时，玩家将获得35个煤炭 :coal:
+点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个煤炭 :coal:
   挖掘煤炭块将会获得三个煤炭 :coal:
 - 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个煤炭 :coal:
