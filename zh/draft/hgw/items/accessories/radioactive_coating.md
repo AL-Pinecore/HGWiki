@@ -2,7 +2,7 @@
 title: 放射性镀层
 description: 
 published: true
-date: 2026-02-20T23:03:45.657Z
+date: 2026-02-21T11:32:59.719Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:17:36.178Z
@@ -14,7 +14,10 @@ dateCreated: 2026-02-20T22:17:36.178Z
 
 编写: NocolorThinker
 
-### 品质 仅蓝色
+---
+
+
+**品质:** 仅蓝色
 
 **获取:** 准备阶段自选配件，试炼
 
