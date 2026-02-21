@@ -2,7 +2,7 @@
 title: 活性弦
 description: 
 published: true
-date: 2026-02-20T23:06:39.978Z
+date: 2026-02-21T11:51:43.164Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:08:45.716Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T20:08:45.716Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
