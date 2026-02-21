@@ -2,7 +2,7 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T06:15:14.061Z
+date: 2026-02-21T08:25:40.412Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -19,10 +19,10 @@ dateCreated: 2026-02-21T02:32:34.957Z
 --- 
 
 - **简述**：
-  该资源需通过地图上固定点位的**浅层铜矿石，深层铜矿石或粗铜块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
+  该资源需通过地图上固定点位的**浅层铜矿石或粗铜块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
-![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
-~一个生成在大铜岛上的浅层铜矿石~ ~一个生成在大铜岛上的深层铜矿石~ ~一个生成在大铜岛上的粗铜块~
+![copper.png](/icons/resources/copper.png =200x200) ![copper-block.png](/icons/resources/copper-block.png =200x200)
+~一个生成在大铜岛上的浅层铜矿石~  ~一个生成在大铜岛上的粗铜块~
 
 ---
 
