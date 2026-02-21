@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-21T09:02:45.495Z
+date: 2026-02-21T09:06:50.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -20,6 +20,10 @@ dateCreated: 2026-02-18T15:34:10.882Z
 ---
 
 - 目录：
-[煤炭](/draft/hgw/items/resources/coal) :coal(20):
-[铁锭](/hgw/items/consumables)
-[紫晶碎片](/hgw/items/accessory) ***（[紫晶矿区](/hgw/maps#紫晶矿区)地图独有）***
+:iron_ingot(20):[铁锭](/zh/draft/hgw/items/resources/iron) 
+:copper_ingot(20):[铜锭](/zh/draft/hgw/items/resources/copper)
+:log(20):[原木](/zh/draft/hgw/items/resources/log)
+:coal(20):[煤炭](/hgw/items/resources/coal) 
+:snow_block(20):[雪块](/zh/draft/hgw/items/resources/snow-block) 
+:netherite_ingot(20):[下界合金锭](/zh/draft/hgw/items/resources/netherite-ingot) 
+amethyst_shard(20):[紫晶碎片](/zh/draft/hgw/items/resources/amethyst_shard) : ***（[紫晶矿区](/hgw/maps#紫晶矿区)地图独有）***
