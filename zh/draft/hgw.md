@@ -2,7 +2,7 @@
 title: 乐魂战
 description: 
 published: true
-date: 2026-02-21T06:50:04.221Z
+date: 2026-02-21T09:59:33.409Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:28:07.069Z
@@ -13,10 +13,16 @@ dateCreated: 2026-02-18T13:28:07.069Z
 
 目录：
 
-- [实体](/hgw/items/entities) 
+- [实体](/hgw/entities) 
 
 - [物品](/hgw/items)
 
 - [机制](/hgw/mechanisms)
+
+- [乐魂升级](/hgw/upgrades)
+
+- [地图](/hgw/maps)
+
+- [试炼](/hgw/trials)
 
 编写：珍枝Zhenzhi
