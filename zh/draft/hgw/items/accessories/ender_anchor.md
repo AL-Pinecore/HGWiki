@@ -2,7 +2,7 @@
 title: 末影锚
 description: 
 published: true
-date: 2026-02-21T11:48:52.465Z
+date: 2026-02-21T11:49:00.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:25:43.240Z
@@ -29,7 +29,7 @@ dateCreated: 2026-02-20T14:25:43.240Z
 **贴图:**
 ![ender_anchor.png](/icons/accessory/ender_anchor.png =150x150)
 
-> *这东西真的存在吗？ ——NocolorThinker*
+> 这东西真的存在吗？ ——NocolorThinker
 
 
 ## 历史
