@@ -2,7 +2,7 @@
 title: 引火装置
 description: 
 published: true
-date: 2026-02-21T11:29:42.810Z
+date: 2026-02-21T11:45:27.653Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:25:48.563Z
@@ -14,8 +14,7 @@ dateCreated: 2026-02-20T20:25:48.563Z
 
 编写: NocolorThinker
 
----
-
+## 基本信息
 
 **品质:** 仅蓝色
 
@@ -31,4 +30,4 @@ dateCreated: 2026-02-20T20:25:48.563Z
 
 ![igniter_iii.png](/icons/accessory/igniter_iii.png =150x150)
 
-> 你的普罗米修斯呢？
+
