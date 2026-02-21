@@ -2,7 +2,7 @@
 title: 传送钩爪
 description: 
 published: true
-date: 2026-02-20T22:58:22.118Z
+date: 2026-02-21T05:05:13.954Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:37:07.015Z
@@ -18,7 +18,7 @@ dateCreated: 2026-02-20T22:37:07.015Z
 
 **获取:** 准备阶段自选配件
 
-**适用装备:** [钩爪](/zh/hgw/items/equipments#钩爪)
+**适用装备:** [钓鱼竿](/zh/hgw/items/equipments#钓鱼竿)
 
 **效果:** 
 
