@@ -2,14 +2,14 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T08:54:20.496Z
+date: 2026-02-21T09:10:40.373Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
 ---
 
-> 该页面未完工！
-{.is-danger}
+> 该页面已完工 待发布！
+{.is-success}
 
 # 下界合金锭
 **下界合金锭** :netherite_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种高级资源。
