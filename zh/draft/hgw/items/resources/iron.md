@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T08:54:01.723Z
+date: 2026-02-21T09:13:21.633Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -74,7 +74,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
   [铁矛](/hgw/items/equipments#矛) （二阶矛）
   [机械匕首](/hgw/items/equipments#动力匕首) （二阶动力匕首）
   **核心高炉**（二阶核心高炉）
-  [吊船血厚升级](/hgw/upgrades#吊船)~~（谁会点这个啊喂(#`O′)）~~
+  [吊船厚血升级](/hgw/upgrades#吊船)~~（谁会点这个啊喂(#`O′)）~~
   
 - 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
 - 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
