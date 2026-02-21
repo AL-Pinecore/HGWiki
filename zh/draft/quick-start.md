@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T06:52:12.979Z
+date: 2026-02-21T06:53:50.261Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -57,15 +57,15 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 ## 发育阶段
 发育阶段时，靠近自己队伍乐魂的玩家将会获得状态效果： 力量、急迫、速度、抗性提升和生命恢复。
-> 玩家需要通过挖矿，完成[试炼](/hgw/trials)，获取[道具](/hgw/items)等方式增强自己和团队的力量。
+> 玩家需要通过挖矿，完成[试炼](/hgw/mechanisms/trials)，获取[道具](/hgw/items)等方式增强自己和团队的力量。
 {.is-info}
 
 游戏一共有五种基础资源：
-- :log: 原木 ， :iron\_ingot: [铁锭](/hgw/items/resources/iron) ， :copper\_ingot: 铜锭 ， :coal: [煤炭](/hgw/items/resources/coal) ，   :snow\_block: 雪块
+- :log: [原木](/hgw/items/resources/log) ， :iron\_ingot: [铁锭](/hgw/items/resources/iron) ， :copper\_ingot: [铜锭](/hgw/items/resources/copper) ， :coal: [煤炭](/hgw/items/resources/coal) ，   :snow\_block: [雪块](/hgw/items/resources/snow-block)
 
 以及两种高级资源：
 
-- :netherite\_ingot: 下界合金锭 - 通过铁和铜[冶炼](#冶炼)获得，用于高阶升级。
+- :netherite\_ingot: [下界合金锭](/hgw/items/resources/netherite-ingot) - 通过铁和铜[冶炼](#冶炼)获得，用于高阶升级。
 
 - :amethyst\_shard: [紫晶碎片](/hgw/items/resources/amethyst_shard) - **紫晶矿区地图**独有，用于最高阶升级。
 
