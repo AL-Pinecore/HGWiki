@@ -2,7 +2,7 @@
 title: 氧化装置
 description: 
 published: true
-date: 2026-02-21T11:50:28.612Z
+date: 2026-02-21T11:51:16.324Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:38:39.779Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T20:38:39.779Z
 {.is-success}
 # 氧化装置
 
-编写: NocolorThinker
+编写: NocolorThinker & yuan__zhe
 
 ## 基本信息
 
@@ -30,9 +30,5 @@ dateCreated: 2026-02-20T20:38:39.779Z
 
 ![oxidizer_iv.png](/icons/accessory/oxidizer_iv.png =150x150)![oxidizer_v.png](/icons/accessory/oxidizer_v.png =150x150)
 
->我们是否能认为，沼骸是拿了装了氧化的弓的骷髅
+>我们是否能认为，沼骸是拿了装了氧化的弓的骷髅 ——yuan__zhe
 
-
-## 历史
-- 移除了氧化装置的白色、绿色、蓝色品质
-将词条1 命中的玩家获得剧毒I: 从+[2,8]s改为+[4.80,6.00]s
