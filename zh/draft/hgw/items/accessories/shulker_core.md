@@ -2,7 +2,7 @@
 title: 潜影核心
 description: 
 published: true
-date: 2026-02-20T23:07:39.237Z
+date: 2026-02-21T11:58:35.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:43:15.945Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:43:15.945Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
