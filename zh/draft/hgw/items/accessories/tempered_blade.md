@@ -2,7 +2,7 @@
 title: 钢化锋刃
 description: 
 published: true
-date: 2026-02-20T23:12:30.940Z
+date: 2026-02-21T12:11:15.369Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:02:45.212Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T14:02:45.212Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
