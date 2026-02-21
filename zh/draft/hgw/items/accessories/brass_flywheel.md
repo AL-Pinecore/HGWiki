@@ -2,7 +2,7 @@
 title: 黄铜飞轮
 description: 
 published: true
-date: 2026-02-20T23:13:34.034Z
+date: 2026-02-21T12:12:26.897Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:31:55.261Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:31:55.261Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
