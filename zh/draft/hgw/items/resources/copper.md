@@ -2,7 +2,7 @@
 title: 铜
 description: 
 published: true
-date: 2026-02-21T02:32:34.957Z
+date: 2026-02-21T02:33:36.284Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-21T02:32:34.957Z
 {.is-danger}
 
 # 铜锭
-铜锭 :copper: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
+铜锭 :Copper ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
  ~~最多的资源~~
 编写：yeyingQAQ & 珍枝Zhenzhi
 
@@ -27,10 +27,10 @@ dateCreated: 2026-02-21T02:32:34.957Z
 ---
 
 **获取**
-- 手持**粗铜**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铜**，获得一个**铜锭** :copper:
-- 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将直接获得一至两个**铜锭** :copper:  
+- 手持**粗铜**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铜**，获得一个**铜锭** :Copper ingot:
+- 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将直接获得一至两个**铜锭** :Copper ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铜块将会直接固定获得四个**铜锭** :copper: 
-- 地图中的木桶有概率会生成**铜锭** :copper:
+- 地图中的木桶有概率会生成**铜锭** :Copper ingot:
 
 **粗铁的获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将获得一至两个**粗铜**
