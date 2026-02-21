@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T06:07:07.653Z
+date: 2026-02-21T06:07:46.221Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -56,4 +56,4 @@ dateCreated: 2026-02-21T04:00:12.824Z
 
 ---
 **历史**
-乐魂战v1.1 :netherite_ingot: 加入了下界合金锭
+乐魂战v1.0 :netherite_ingot: 加入了下界合金锭
