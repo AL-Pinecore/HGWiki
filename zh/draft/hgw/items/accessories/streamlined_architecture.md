@@ -2,7 +2,7 @@
 title: 流线架构
 description: 
 published: true
-date: 2026-02-20T23:07:24.959Z
+date: 2026-02-21T11:51:56.580Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:11:07.132Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T20:11:07.132Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
