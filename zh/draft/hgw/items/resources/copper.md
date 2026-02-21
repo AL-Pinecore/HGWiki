@@ -2,7 +2,7 @@
 title: 铜
 description: 
 published: true
-date: 2026-02-21T02:46:37.256Z
+date: 2026-02-21T02:47:38.337Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -58,6 +58,6 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 ---
 **历史**
-乐魂战v1.1 :copper_ingot: 加入了铜锭与粗铜
+*乐魂战v1.1* :copper_ingot: 加入了铜锭与粗铜
 
   
