@@ -2,7 +2,7 @@
 title: 幻翼
 description: 
 published: true
-date: 2026-02-21T10:30:25.700Z
+date: 2026-02-21T10:42:40.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T09:10:31.646Z
@@ -29,3 +29,4 @@ dateCreated: 2026-02-21T09:10:31.646Z
 在乐魂战中，幻翼不会在白天燃烧
 ![phantom_je2.png](/phantom_je2.png =500x)
 ## 数值
+- 最大生命值
