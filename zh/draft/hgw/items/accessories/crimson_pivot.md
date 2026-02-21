@@ -2,7 +2,7 @@
 title: 绯红枢轴
 description: 
 published: true
-date: 2026-02-21T12:06:03.451Z
+date: 2026-02-21T12:06:10.826Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T23:18:35.546Z
@@ -26,7 +26,7 @@ dateCreated: 2026-02-20T23:18:35.546Z
 
 - 蓄力速度: +[5,25]%
 - 射击角度偏差: -[7,30]%
-> 该词条下限值可能不准确
+> 词条2 下限值可能不准确
 {.is-warning}
 
 
