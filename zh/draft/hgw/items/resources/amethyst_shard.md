@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-21T02:50:46.753Z
+date: 2026-02-21T03:03:01.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -35,11 +35,11 @@ dateCreated: 2026-02-20T13:58:12.516Z
 
 **用途**
 - 在**合金熔炼炉**中，紫晶碎片可以用来升级：
-  [紫晶匕首](/hgw/items/equipments#匕首)（四阶动力匕首）
-[晶械连弩](/hgw/items/equipments#自动弩)（四阶自动弩）
+  [紫晶匕首](/hgw/items/equipments/epic_tele_blade)（四阶动力匕首）
+[晶械连弩](/hgw/items/equipments/crystal_crossbow)（四阶自动弩）
 [晶化装甲](/hgw/upgrades#晶化装甲)（五阶乐魂护甲）
 
-> 不推荐把紫晶碎片用于升级[紫晶匕首](/hgw/items/equipments#匕首)或[晶械连弩](/hgw/items/equipments#自动弩)这些**个人装备**！
+> 不推荐把紫晶碎片用于升级[紫晶匕首](/hgw/items/equipments/epic_tele_blade)或[晶械连弩](/hgw/items/equipments/crystal_crossbow)这些**个人装备**！
 {.is-warning}
 
 ---
