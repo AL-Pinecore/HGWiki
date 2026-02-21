@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T06:09:04.317Z
+date: 2026-02-21T06:10:17.591Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -78,6 +78,6 @@ dateCreated: 2026-02-21T03:34:51.336Z
 - 用于将**胸甲附魔**更换成**弹射物保护Ⅲ**和**爆炸保护Ⅳ**
 ---
 **历史**
-乐魂战v1.1 :log: 加入了原木
+乐魂战v1.0 :log: 加入了原木
 
   
