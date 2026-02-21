@@ -2,7 +2,7 @@
 title: 传送钩爪
 description: 
 published: true
-date: 2026-02-21T05:05:13.954Z
+date: 2026-02-21T11:14:56.389Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:37:07.015Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T22:37:07.015Z
 
 编写: NocolorThinker
 
-### 品质 仅绿色
+**品质:** 仅绿色
 
 **获取:** 准备阶段自选配件
 
