@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T10:03:24.765Z
+date: 2026-02-21T10:05:18.311Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -76,7 +76,7 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 这些资源（除[下界合金锭](/hgw/items/resources/netherite-ingot)）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
 
-> 想了解资源的详细信息，请查看[资源](/hgw/items/resources)页面。
+> 想了解详细信息，请查看[资源](/hgw/items/resources)页面，[试炼](/hgw/mechanisms/trials)界面，[道具](/hgw/items)界面。
 {.is-info}
 
 ---
