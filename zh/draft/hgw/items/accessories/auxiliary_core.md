@@ -2,7 +2,7 @@
 title: 附加核心
 description: 
 published: true
-date: 2026-02-20T23:12:42.529Z
+date: 2026-02-21T12:11:33.279Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:00:53.243Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:00:53.243Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
