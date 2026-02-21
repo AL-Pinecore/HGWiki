@@ -2,7 +2,7 @@
 title: 幻翼
 description: 
 published: true
-date: 2026-02-21T09:10:31.646Z
+date: 2026-02-21T10:26:52.936Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T09:10:31.646Z
@@ -16,7 +16,7 @@ dateCreated: 2026-02-21T09:10:31.646Z
 
 
 # 幻翼
-本页旨在本页旨在帮助您了解[乐魂战](/hgw)中的[试炼](/hgw/trials)怪物：幻翼
+本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的[试炼](/hgw/mechanisms/trials)怪物：幻翼
 
 目录：| [行为](#行为) | [数值](#数值) | [生成](#生成) |
 
