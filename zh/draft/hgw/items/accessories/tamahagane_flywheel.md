@@ -2,7 +2,7 @@
 title: 玄钢飞轮
 description: 
 published: true
-date: 2026-02-20T23:09:10.118Z
+date: 2026-02-21T12:05:15.098Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:15:08.734Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:15:08.734Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
