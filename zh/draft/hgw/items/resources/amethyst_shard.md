@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-21T08:52:24.295Z
+date: 2026-02-21T08:52:38.457Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -11,7 +11,7 @@ dateCreated: 2026-02-20T13:58:12.516Z
 # 紫晶碎片
 紫晶碎片 :amethyst_shard: 是游戏[乐魂战](/quick-start#乐魂战)中的一种高级资源。
 
-编写：kongyu14 &  珍枝Zhenzhi
+编写：kongyu14 &  珍枝Zhenzhi ＆ yeyingQAQ
 
 ---
 
