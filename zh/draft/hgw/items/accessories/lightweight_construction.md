@@ -2,7 +2,7 @@
 title: 轻量化构造
 description: 
 published: true
-date: 2026-02-20T23:11:55.033Z
+date: 2026-02-21T00:23:10.641Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:35:10.903Z
@@ -27,3 +27,8 @@ dateCreated: 2026-02-20T15:35:10.903Z
 
 **贴图:**
 ![lightweight_construction_i.png](/icons/accessory/lightweight_construction_i.png =150x150)![lightweight_construction_ii.png](/icons/accessory/lightweight_construction_ii.png =150x150)![lightweight_construction_iii.png](/icons/accessory/lightweight_construction_iii.png =150x150)![lightweight_construction_iv.png](/icons/accessory/lightweight_construction_iv.png =150x150)![lightweight_construction_v.png](/icons/accessory/lightweight_construction_v.png =150x150)
+
+
+## 历史
+- 将词条1 蓄力速度: 从+[20,40]%改为+[15,70]% 
+将词条2 弹射物伤害: 从-[30,15]%改为-[20,3]%
