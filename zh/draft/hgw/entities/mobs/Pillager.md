@@ -2,7 +2,7 @@
 title: 掠夺者
 description: 
 published: true
-date: 2026-02-21T08:20:26.011Z
+date: 2026-02-21T08:30:56.421Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T08:20:26.011Z
@@ -23,3 +23,26 @@ dateCreated: 2026-02-21T08:20:26.011Z
 编写：Autumncom1ng  秋临  
 > 该页大部分内容来自于Minecraft Wiki
 {.is-info}
+## 行为
+掠夺者持有一把弩并且用弩射出箭来攻击玩家。会跟随目标至多64格
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
