@@ -2,14 +2,15 @@
 title: 卫道士
 description: 
 published: true
-date: 2026-02-21T08:03:32.939Z
+date: 2026-02-21T08:04:42.383Z
 tags: 生物
 editor: markdown
 dateCreated: 2026-02-21T05:53:24.480Z
 ---
 
-> 该页面未完工！
-{.is-danger}
+> 该页面已完工！
+{.is-success}
+
 
 # 卫道士
 本页旨在本页旨在帮助您了解[乐魂战](/hgw)中的[试炼](/hgw/trials)怪物：卫道士
