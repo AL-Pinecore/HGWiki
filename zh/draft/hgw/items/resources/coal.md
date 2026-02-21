@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-21T06:10:58.600Z
+date: 2026-02-21T07:50:47.375Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -21,7 +21,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 - **简述**：
  该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
-![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
+![coal.png](/icons/resources/coal.png =200x200) ![coal-deep.png](/icons/resources/coal-deep.png =200x200) ![coal-block.png](/icons/resources/coal-block.png =200x200)
 ~一个生成在大煤炭岛上的普通煤矿石~ ~一个生成在大煤炭岛上的深层煤矿石~ ~一个生成在大煤炭岛上的煤炭块~
 
 ---
@@ -38,7 +38,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 
 **用途**：
 - 用于购买：
-  [恶魂炮台](/hgw/upgrades#小恶魂炮塔) :ghastling: **（*每只恶魂最多8个*）**
+  [恶魂炮台](/hgw/upgrades#小恶魂炮塔) :ghastling: **（*每只乐魂最多8个*）**
   [初级核心火炮](/zh/hgw/items/equipments#核心火炮) （一阶核心火炮）
 - 用于升级:
   [核心熔炉等级](/hgw/upgrades#核心熔炉)（二阶核心高炉，三阶合金熔炼炉）
