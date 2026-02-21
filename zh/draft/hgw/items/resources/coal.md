@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-21T08:43:49.467Z
+date: 2026-02-21T08:57:25.145Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -18,8 +18,8 @@ dateCreated: 2026-02-20T13:54:15.643Z
 
 --- 
 
-- **简述**：
- 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
+**简述**：
+- 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
 ![coal.png](/icons/resources/coal.png =200x200) ![coal-deep.png](/icons/resources/coal-deep.png =200x200) ![coal-block.png](/icons/resources/coal-block.png =200x200)
 ~一个生成在大煤炭岛上的普通煤矿石~ ~一个生成在大煤炭岛上的深层煤矿石~ ~一个生成在大煤炭岛上的煤炭块~
