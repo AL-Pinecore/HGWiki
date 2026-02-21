@@ -2,7 +2,7 @@
 title: 卫道士
 description: 
 published: true
-date: 2026-02-21T08:01:44.621Z
+date: 2026-02-21T08:03:32.939Z
 tags: 生物
 editor: markdown
 dateCreated: 2026-02-21T05:53:24.480Z
@@ -30,7 +30,7 @@ dateCreated: 2026-02-21T05:53:24.480Z
 <img src="https://zh.minecraft.wiki/images/Vindicator_with_Ominous_Banner.png?7b1eb" width="200" />
 
 ## 数值
-最大生命值：待测
+最大生命值：24
 攻击伤害：7点
 高度：1.95
 宽度：0.6
