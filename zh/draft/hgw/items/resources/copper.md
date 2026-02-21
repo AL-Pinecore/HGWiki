@@ -2,15 +2,14 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T08:55:38.731Z
+date: 2026-02-21T09:13:41.247Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
 ---
 
-> 该页面未完工！
-{.is-danger}
-
+> 该页面已完工 待发布！
+{.is-success}
 # 铜锭
 **铜锭** :copper_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
  *~~最多的资源~~*
