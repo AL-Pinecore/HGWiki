@@ -2,7 +2,7 @@
 title: 沼骸
 description: 
 published: false
-date: 2026-02-21T04:13:26.131Z
+date: 2026-02-21T04:15:52.355Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:44:08.546Z
@@ -37,8 +37,8 @@ dateCreated: 2026-02-21T03:44:08.546Z
 宽度：0.6格
 
 ## 生成
-
-
+![试炼刷怪笼3.png](/试炼刷怪笼3.png =500x)
+**图中红框标注的试炼刷怪笼会生成沼骸*
 
 
 
