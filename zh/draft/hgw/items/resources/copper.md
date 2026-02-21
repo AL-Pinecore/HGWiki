@@ -2,7 +2,7 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T08:25:40.412Z
+date: 2026-02-21T08:26:24.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -34,7 +34,7 @@ dateCreated: 2026-02-21T02:32:34.957Z
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铜块将会直接固定获得四个**铜锭** :copper_ingot: 
 - 地图中的木桶有概率会生成**铜锭** :copper_ingot:
 
-**粗铁的获取**
+**粗铜的获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将获得一至两个**粗铜**
   挖掘粗铜块将会固定获得三个**粗铜**
 - 使用二阶的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将获得两至三个**粗铜** 
