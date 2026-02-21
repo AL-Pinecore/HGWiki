@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T08:00:06.726Z
+date: 2026-02-21T10:03:24.765Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -48,6 +48,9 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 - [配件](/hgw/items/accessories)分为五个不同的**品质等级**。等级越高，它带来的加成越强，同时副作用也会越轻。
   *（ 品质等级：白色 < 绿色 < 蓝色 < 紫色 < 金色 ）*
+  
+> 想了解配件的详细信息，请查看[配件](/hgw/items/accessories)页面。
+{.is-info}
 
 玩家在该阶段无法行动，只能按**跳跃**打开商店，或按**潜行**重新选择[配件](/hgw/items/accessories)。时间结束后，如果选择少于五个，系统会自动选择品质最好的[配件](/hgw/items/accessories)。
 
@@ -72,6 +75,9 @@ dateCreated: 2026-02-18T13:27:36.478Z
 - :amethyst\_shard: [紫晶碎片](/hgw/items/resources/amethyst_shard) - **紫晶矿区地图**独有，用于最高阶升级。
 
 这些资源（除[下界合金锭](/hgw/items/resources/netherite-ingot)）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
+
+> 想了解资源的详细信息，请查看[资源](/hgw/items/resources)页面。
+{.is-info}
 
 ---
 - **关于资源**
