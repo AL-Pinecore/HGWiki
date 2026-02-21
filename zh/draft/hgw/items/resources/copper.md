@@ -2,7 +2,7 @@
 title: 铜
 description: 
 published: true
-date: 2026-02-21T02:34:21.050Z
+date: 2026-02-21T02:42:45.234Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -45,7 +45,7 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 **用途**：
 - 用于购买：
-  [矛](/hgw/items/equipments#矛) （一阶矛）
+  [铜矛](/hgw/items/equipments#铜矛) （一阶矛）
 
 - 用于升级:
   [复合弓](/hgw/items/equipments#复合弓) （二阶弓） 
