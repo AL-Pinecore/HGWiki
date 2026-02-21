@@ -2,7 +2,7 @@
 title: 气动机架
 description: 
 published: true
-date: 2026-02-21T11:49:56.154Z
+date: 2026-02-21T11:50:00.553Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:43:40.565Z
@@ -16,7 +16,7 @@ dateCreated: 2026-02-20T13:43:40.565Z
 
 ## 基本信息
 
-**品质:**任何
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
