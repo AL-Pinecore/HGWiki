@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: false
-date: 2026-02-21T04:15:25.451Z
+date: 2026-02-21T06:10:58.600Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -51,4 +51,4 @@ dateCreated: 2026-02-20T13:54:15.643Z
 
 ---
 **历史**
-乐魂战v1.1 :coal: 加入了煤炭
+乐魂战v1.0 :coal: 加入了煤炭
