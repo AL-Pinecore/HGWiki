@@ -2,7 +2,7 @@
 title: 自动化组件
 description: 
 published: true
-date: 2026-02-20T23:10:59.852Z
+date: 2026-02-21T12:06:55.196Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:50:22.663Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T15:50:22.663Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
