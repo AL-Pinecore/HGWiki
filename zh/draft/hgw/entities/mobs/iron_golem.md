@@ -2,7 +2,7 @@
 title: 铁傀儡
 description: 
 published: true
-date: 2026-02-21T10:21:26.857Z
+date: 2026-02-21T10:22:21.937Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T10:13:18.383Z
@@ -27,7 +27,7 @@ dateCreated: 2026-02-21T10:13:18.383Z
 
 多个铁傀儡可能会同时击中同一目标，目标被铁傀儡抛向空中的高度与对其进行攻击的铁傀儡的数量有关。
 
-当玩家脱离铁傀儡的索敌范围时，铁傀儡有概率攻击敌对生物（[旋风人](/zh/hgw/entities/mobs/breeze)、[沼骸](/zh/hgw/entities/mobs/bogged)、[尸壳](/zh/hgw/entities/mobs/husk)、[流浪者](/zh/hgw/entities/mobs/stray)）
+当玩家脱离铁傀儡的索敌范围时，铁傀儡有概率攻击其他敌对生物（[旋风人](/zh/hgw/entities/mobs/breeze)、[沼骸](/zh/hgw/entities/mobs/bogged)、[尸壳](/zh/hgw/entities/mobs/husk)、[流浪者](/zh/hgw/entities/mobs/stray)和[溺尸](/zh/hgw/entities/mobs/drowned)）
 
 <img src="https://zh.minecraft.wiki/images/thumb/Iron_Golem_JE2_BE2.png/300px-Iron_Golem_JE2_BE2.png?9c8ab" width="100" />
 
