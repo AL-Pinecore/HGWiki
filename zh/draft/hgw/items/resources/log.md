@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T03:34:51.336Z
+date: 2026-02-21T03:36:04.109Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -70,7 +70,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
   [进阶弹射器](/hgw/items/equipments#进阶弹射器) （二阶弹射器） 
   [进高阶射器](/hgw/items/equipments#高阶弹射器) （三阶弹射器）
   [机械匕首](/hgw/items/equipments#机械匕首) （二阶匕首）
-  [铁矛](/hgw/items/equipments#铁矛） （二阶矛）
+  [铁矛](/hgw/items/equipments#矛) （二阶矛）
  
 - 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
 - 用于更换胸甲附魔
