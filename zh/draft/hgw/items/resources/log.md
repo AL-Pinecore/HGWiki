@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T04:17:16.148Z
+date: 2026-02-21T06:09:04.317Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -75,7 +75,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
   [铁矛](/hgw/items/equipments#矛) （二阶矛）
  
 - 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
-- 用于更换胸甲附魔
+- 用于将**胸甲附魔**更换成**弹射物保护Ⅲ**和**爆炸保护Ⅳ**
 ---
 **历史**
 乐魂战v1.1 :log: 加入了原木
