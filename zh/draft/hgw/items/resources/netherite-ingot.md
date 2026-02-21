@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T08:28:35.426Z
+date: 2026-02-21T08:30:41.788Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-21T04:00:12.824Z
 {.is-danger}
 
 # 下界合金锭
-下界合金锭 :netherite_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种高级资源。
+**下界合金锭** :netherite_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种高级资源。
 
 编写：yeyingQAQ
 
@@ -36,7 +36,7 @@ dateCreated: 2026-02-21T04:00:12.824Z
 
 **用途**：
 - 用于购买：
-  [重型巨弩](/hgw/items/equipments#重弩) （二阶重弩）
+  [重型巨弩](/hgw/items/equipments#重弩) （二阶巨型重弩）
 - 用于升级:
   [核心熔炉等级](/hgw/upgrades#核心熔炉)（三阶合金熔炼炉）
   [乐魂合金护甲](/hgw/upgrades#乐魂护甲)（四级乐魂护甲）
