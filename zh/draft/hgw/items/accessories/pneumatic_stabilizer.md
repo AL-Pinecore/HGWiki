@@ -2,7 +2,7 @@
 title: 气动稳定器
 description: 
 published: true
-date: 2026-02-20T23:06:00.989Z
+date: 2026-02-21T11:50:16.495Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T21:55:36.589Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T21:55:36.589Z
 
 编写: NocolorThinker
 
-### 品质 仅紫色
+## 基本信息
+
+**品质:** 仅紫色
 
 **获取:** 准备阶段自选配件，试炼
 
