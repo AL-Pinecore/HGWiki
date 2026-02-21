@@ -2,7 +2,7 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T09:55:08.835Z
+date: 2026-02-21T11:15:07.336Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
@@ -21,8 +21,8 @@ dateCreated: 2026-02-21T04:47:20.233Z
  **简述**：
 - 该资源需通过地图上固定点位的**雪块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。（[点击](/hgw/maps#紫晶矿区)了解其生成位置）
 
-![snow-block.png](/icons/resources/snow-block.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
-~一个生成在紫晶矿区中的中岛上的雪块~ ~一个生成在浮岛竞技场中的雪岛上的雪块~ ~一个生成在浮岛竞技场中的烟囱雪岛上的雪块~
+![snow-block.png](/icons/resources/snow-block.png =200x200)
+~一个生成在紫晶矿区中的中岛上的雪块~ 
 
 ---
 
