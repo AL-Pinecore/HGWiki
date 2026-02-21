@@ -2,7 +2,7 @@
 title: 地图
 description: 
 published: true
-date: 2026-02-21T03:15:41.889Z
+date: 2026-02-21T06:41:47.844Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:35:52.323Z
@@ -21,7 +21,7 @@ dateCreated: 2026-02-18T15:35:52.323Z
 编写：珍枝Zhenzhi
 
 # 紫晶矿区
-
+![紫晶矿区全景](/HGMap.png)
 ![hgw紫晶矿区.png](/hgw紫晶矿区.png =600x)
 
 ## 限定物品
