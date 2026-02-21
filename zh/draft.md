@@ -2,7 +2,7 @@
 title: 草稿
 description: 
 published: true
-date: 2026-02-21T01:54:28.475Z
+date: 2026-02-21T01:56:22.172Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:26:20.583Z
@@ -13,6 +13,9 @@ dateCreated: 2026-02-18T13:26:20.583Z
 请大家在/draft（草稿）目录里对wiki进行修改。目前wiki公共页面没有开放修改权限
 
 /draft目录是wiki根目录的镜像，是对公共隐藏的。对/draft目录的修改会在审核过后发布在公共页面。
+
+目前一共有三种编辑器：可视化编辑器、Markdown编辑器、html编辑器
+推荐使用Markdown编辑器
 
 遇到问题/需要审核联系我 QQ：2592415035
 
