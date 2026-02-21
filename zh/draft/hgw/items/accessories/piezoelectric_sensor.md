@@ -2,7 +2,7 @@
 title: 压电感应器
 description: 
 published: true
-date: 2026-02-21T11:27:08.941Z
+date: 2026-02-21T11:43:35.018Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T16:36:19.346Z
@@ -14,8 +14,7 @@ dateCreated: 2026-02-20T16:36:19.346Z
 
 编写: NocolorThinker
 
----
-
+## 基本信息
 
 **品质:** 仅蓝色
 
