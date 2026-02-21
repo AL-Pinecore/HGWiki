@@ -2,7 +2,7 @@
 title: 乐魂战
 description: 
 published: true
-date: 2026-02-21T06:49:29.549Z
+date: 2026-02-21T06:50:04.221Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:28:07.069Z
@@ -18,7 +18,5 @@ dateCreated: 2026-02-18T13:28:07.069Z
 - [物品](/hgw/items)
 
 - [机制](/hgw/mechanisms)
-
-- [试炼](/hgw/mechanisms/trials)
 
 编写：珍枝Zhenzhi
