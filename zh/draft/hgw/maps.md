@@ -2,7 +2,7 @@
 title: 地图
 description: 
 published: true
-date: 2026-02-21T03:12:51.937Z
+date: 2026-02-21T03:15:41.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:35:52.323Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-18T15:35:52.323Z
 
 # 地图（乐魂战）
 
-本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的地图，[安全区](/hgw#缩圈阶段)大小，以及限定装备。
+本页旨在帮助您了解[乐魂战](/quick-start#乐魂战)中的地图，[安全区](/hgw#缩圈阶段)大小，以及限定物品。
 
 目录：| [紫晶矿区](#紫晶矿区) |
 
@@ -23,6 +23,17 @@ dateCreated: 2026-02-18T15:35:52.323Z
 # 紫晶矿区
 
 ![hgw紫晶矿区.png](/hgw紫晶矿区.png =600x)
+
+## 限定物品
+
+- 资源：
+[紫晶碎片](/hgw/items/resources/amethyst_shard)
+
+- 装备：
+[晶械连弩](/hgw/items/equipments/crystal_crossbow)
+[紫晶匕首](/hgw/items/equipments/epic_tele_blade)
+
+## 安全区
 
 **该地图总计有五个缩圈阶段**：
 
@@ -54,8 +65,6 @@ dateCreated: 2026-02-18T15:35:52.323Z
   
 - 最终缩圈
   · 消息栏提示：**边界开始收缩！ 目标半径: 0.0米**
-
-
 
 
 
