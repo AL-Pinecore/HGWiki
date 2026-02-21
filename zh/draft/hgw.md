@@ -2,7 +2,7 @@
 title: 乐魂战
 description: 
 published: true
-date: 2026-02-21T10:10:24.225Z
+date: 2026-02-21T10:10:43.366Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:28:07.069Z
@@ -11,7 +11,7 @@ dateCreated: 2026-02-18T13:28:07.069Z
 # 乐魂战
 本页是向导页面，旨在帮助您找到[乐魂战](/quick-start#乐魂战)中的某个内容。
 
-目录：
+索引：
 
 - [实体](/hgw/entities)：介绍了试炼怪物的行为与部分参数
 
