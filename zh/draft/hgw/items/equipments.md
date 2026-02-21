@@ -2,7 +2,7 @@
 title: 装备
 description: 
 published: true
-date: 2026-02-21T02:11:19.716Z
+date: 2026-02-21T02:29:35.968Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:31:14.724Z
@@ -363,7 +363,7 @@ dps由你的精准度决定
 
 
 
-## 钩爪
+## 钓鱼竿
 节省您珍贵的赶路时间！
 > 需要安装 **传送钩爪** 配件
 {.is-info}
