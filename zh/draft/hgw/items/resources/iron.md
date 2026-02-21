@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T09:13:21.633Z
+date: 2026-02-21T09:49:18.200Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-20T15:07:03.589Z
 --- 
 
 **简述**：
--   该资源需通过地图上固定点位的**浅层铁矿石，深层铁矿石或粗铁块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
+-   该资源需通过地图上固定点位的**浅层铁矿石，深层铁矿石或粗铁块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。（[点击](/hgw/maps#紫晶矿区)了解其生成位置）
 
 ![iron.png](/icons/resources/iron.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在大铁岛上的普通铁矿石~ ~一个生成在大铁岛上的深层铁矿石~ ~一个生成在大铁岛上的粗铁块~
@@ -28,8 +28,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
 
 **获取**
 - 游戏开始时，玩家将获得50个**铁锭** :iron_ingot:
-点击查看详情：[初始物资](/zh/hgw/mechanisms)
-- 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
+点击了解更多：[初始物资](/hgw/mechanisms/starting)
+- 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw/mechanisms/melting)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铁块将会直接固定获得四个**铁锭** :iron_ingot: 
 - 地图中的木桶有概率会生成**铁锭** :iron_ingot:
@@ -76,8 +76,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
   **核心高炉**（二阶核心高炉）
   [吊船厚血升级](/hgw/upgrades#吊船)~~（谁会点这个啊喂(#`O′)）~~
   
-- 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
-- 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
+- 用于制作箭矢：详细内容请查看[冶炼](/hgw/mechanisms/smelting)
+- 用于制作合金锭：详细内容请查看[冶炼](/hgw/mechanisms/smelting)
 - 用于将**胸甲附魔**更换为**保护Ⅳ**
   
 ---
