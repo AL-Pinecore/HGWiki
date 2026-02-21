@@ -2,7 +2,7 @@
 title: 地图
 description: 
 published: true
-date: 2026-02-21T10:11:59.561Z
+date: 2026-02-21T19:39:18.068Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:35:52.323Z
@@ -21,7 +21,7 @@ dateCreated: 2026-02-18T15:35:52.323Z
 编写：珍枝Zhenzhi
 
 # 紫晶矿区
-![紫晶矿区全景](https://img.itsalpc.work/HGMap.png)
+![紫晶矿区全景](https://img.itsalpc.work/AmethystMap.webp)
 ![hgw紫晶矿区.png](/hgw紫晶矿区.png =600x)
 
 ## 限定物品
@@ -65,6 +65,8 @@ dateCreated: 2026-02-18T15:35:52.323Z
   
 - 最终缩圈
   · 消息栏提示：**边界开始收缩！ 目标半径: 0.0米**
+  
+![浮岛竞技场全景](https://img.itsalpc.work/IslandsMap.webp)
 
 
 
