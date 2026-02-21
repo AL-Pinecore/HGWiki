@@ -2,7 +2,7 @@
 title: 传送钩爪
 description: 
 published: true
-date: 2026-02-21T11:40:08.664Z
+date: 2026-02-21T11:41:13.393Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:37:07.015Z
@@ -31,4 +31,5 @@ dateCreated: 2026-02-20T22:37:07.015Z
 ![ender_claw.png](/icons/accessory/ender_claw.png =150x150)
 
 > 推荐有开局抢雪或在发育期中期抢紫晶任务的玩家选取
-{.is-info}
+——NocolorThinker
+
