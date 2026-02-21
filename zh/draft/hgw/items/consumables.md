@@ -2,7 +2,7 @@
 title: 消耗品
 description: 
 published: true
-date: 2026-02-21T06:50:43.170Z
+date: 2026-02-21T09:24:51.656Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:30:44.132Z
@@ -69,9 +69,9 @@ dateCreated: 2026-02-18T15:30:44.132Z
 ### 不祥之瓶
 ![不祥之瓶.png](/items/不祥之瓶.png =200x)
 **来源**：试炼奖励
-**作用**：饮用后，靠近任一可用的[试炼](/hgw/trials)刷怪笼，会触发[不祥试炼](/hgw/trials)。*（这还会打断正在进行的试炼）*
-- [不祥试炼](/hgw/trials)的难度更大，但奖励也更加丰厚
-> [不祥试炼](/hgw/trials)奖励是队友的共同资源。请避免独占配件或消耗品。
+**作用**：饮用后，靠近任一可用的[试炼](/hgw/mechanisms/trials)刷怪笼，会触发[不祥试炼](/hgw/mechanisms/trials)。*（这会打断正在进行的普通试炼）*
+- [不祥试炼](/hgw/mechanisms/trials)的难度更大，但奖励也更加丰厚
+> [不祥试炼](/hgw/mechanisms/trials)奖励是队友的共同资源。请避免独占配件或消耗品。
 {.is-info}
 
 ## 食物
