@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T03:21:25.288Z
+date: 2026-02-21T04:14:48.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -27,6 +27,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
 ---
 
 **获取**
+- 游戏开始时，玩家将获得50个铁锭 :iron_ingot:
+点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铁块将会直接固定获得四个**铁锭** :iron_ingot: 
