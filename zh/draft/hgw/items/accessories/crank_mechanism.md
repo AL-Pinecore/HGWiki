@@ -2,7 +2,7 @@
 title: 曲柄机构
 description: 
 published: true
-date: 2026-02-21T11:47:45.802Z
+date: 2026-02-21T11:47:55.639Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T23:15:48.497Z
@@ -26,7 +26,7 @@ dateCreated: 2026-02-20T23:15:48.497Z
 
 -推进力度: +[8,15]%
 
-> 该词条下限值可能不准确
+> 词条1 下限值可能不准确
 {.is-warning}
 
 **贴图:**
