@@ -2,7 +2,7 @@
 title: 铁傀儡
 description: 
 published: true
-date: 2026-02-21T10:22:21.937Z
+date: 2026-02-21T10:25:55.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T10:13:18.383Z
@@ -21,13 +21,13 @@ dateCreated: 2026-02-21T10:13:18.383Z
 {.is-info}
 
 ## 行为
-乐魂战中，铁傀儡与玩家敌对。在攻击目标位于16格范围内时才会对其进行追逐。
+乐魂战中，铁傀儡默认与玩家敌对。在攻击目标位于16格范围内时才会对其进行追逐。
 
 当铁傀儡被激怒时，它们会快速跑向目标，抡起双臂对目标进行攻击，并将目标抛向空中。
 
 多个铁傀儡可能会同时击中同一目标，目标被铁傀儡抛向空中的高度与对其进行攻击的铁傀儡的数量有关。
 
-当玩家脱离铁傀儡的索敌范围时，铁傀儡有概率攻击其他敌对生物（[旋风人](/zh/hgw/entities/mobs/breeze)、[沼骸](/zh/hgw/entities/mobs/bogged)、[尸壳](/zh/hgw/entities/mobs/husk)、[流浪者](/zh/hgw/entities/mobs/stray)和[溺尸](/zh/hgw/entities/mobs/drowned)）
+当其他敌对生物失去对玩家的仇恨时，它们会攻击铁傀儡，但铁傀儡不会因此反击。只有当玩家脱离铁傀儡的索敌范围时，铁傀儡才有概率攻击这些敌对生物（[旋风人](/zh/hgw/entities/mobs/breeze)、[沼骸](/zh/hgw/entities/mobs/bogged)、[尸壳](/zh/hgw/entities/mobs/husk)、[流浪者](/zh/hgw/entities/mobs/stray)和[溺尸](/zh/hgw/entities/mobs/drowned)）
 
 <img src="https://zh.minecraft.wiki/images/thumb/Iron_Golem_JE2_BE2.png/300px-Iron_Golem_JE2_BE2.png?9c8ab" width="100" />
 
