@@ -2,7 +2,7 @@
 title: 快速上手
 description: 小游戏的快速介绍
 published: true
-date: 2026-02-21T06:53:50.261Z
+date: 2026-02-21T06:58:36.157Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:27:36.478Z
@@ -69,22 +69,24 @@ dateCreated: 2026-02-18T13:27:36.478Z
 
 - :amethyst\_shard: [紫晶碎片](/hgw/items/resources/amethyst_shard) - **紫晶矿区地图**独有，用于最高阶升级。
 
-这些资源（除下界合金锭）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
+这些资源（除[下界合金锭](/hgw/items/resources/netherite-ingot)）会分布在不同的岛上，被挖掘会直接进入玩家背包。资源被挖掘后会随着时间再生。
 
 ---
 - **关于资源**
 
-1. 地图上任意种类的**原木**都可以被获取。~~（即使是建筑结构里的）~~
+1. 地图上任意种类的**原木**都可以被挖掘并获取。~~（即使是建筑结构里的）~~
 
 ·  玩家放置原木时，原木将会变成木板，并向放置的朝向延伸出至多四格。（不会于路径上的实体碰撞箱重叠）
 
-2. 挖掘地图上的**雪块**会获得雪球，雪球会在背包中自动合成为**雪块**。
+2. 挖掘地图上的**雪块** :snow_block: 会获得雪球，雪球会在背包中自动合成为**雪块** :snow_block: 。
 
-· 雪块可以用于乐魂升级和**自动回血**。
+· [高阶升级的锹](/hgw/items/equipments#锹)附有**精准采集**，可以用它快速地直接获取**雪块** :snow_block: 。
 
-·  *[高阶升级的锹](/hgw/items/equipments#锹)附有**精准采集**，可以用它快速地直接获取**雪块**。*
+3. 挖掘地图上的金属矿石会获得粗金属。它们需要经过[冶炼](#冶炼)才会变成金属锭。
 
-3. 挖掘地图中的[紫水晶簇](/hgw/items/resources/amethyst_shard)可以获取[紫晶碎片](/hgw/items/resources/amethyst_shard)。
+· [高阶升级的镐](/hgw/items/equipments#镐)附有**熔炼**，可以用它快速地直接获取**金属锭**。
+
+4. 挖掘地图中的[紫水晶簇](/hgw/items/resources/amethyst_shard)可以获取[紫晶碎片](/hgw/items/resources/amethyst_shard) :amethyst_shard: 。
 
 ·  由于其高稀有度，玩家常常需要注意其[刷新时间](/hgw/items/resources/amethyst_shard)，来保证抢在其他队伍之前获取。
 
