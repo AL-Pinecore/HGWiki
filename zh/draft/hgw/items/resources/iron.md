@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T11:20:14.940Z
+date: 2026-02-21T12:13:52.999Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -21,8 +21,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
 **简述**：
 -   该资源需通过地图上固定点位的**浅层铁矿石，深层铁矿石或粗铁块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。（[点击](/hgw/maps#紫晶矿区)了解其生成位置）
 
-![iron.png](/icons/resources/iron.png =200x200)![iron-block.png](/icons/resources/iron-block.png =200x200) 
-~一个生成在紫晶矿区中的普通铁矿石~  ~一个生成在浮岛竞技场中的的粗铁块~
+![iron.png](/icons/resources/iron.png =200x200)![iron-block.png](/icons/resources/iron-block.png =200x200)![iron-deep.png](/icons/resources/iron-deep.png =200x200)
+~一个生成在紫晶矿区中的普通铁矿石~  ~一个生成在浮岛竞技场中的的粗铁块~ ~一个生成在浮岛竞技场中的深层铁矿石~
 
 ---
 
@@ -30,14 +30,14 @@ dateCreated: 2026-02-20T15:07:03.589Z
 - 游戏开始时，玩家将获得50个**铁锭** :iron_ingot:
 点击了解更多：[初始物资](/hgw/mechanisms/starting)
 - 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw/mechanisms/melting)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
-- 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
+- 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石和深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
   使用三阶的[镐](/hgw/items/equipments#镐)挖掘粗铁块将会直接固定获得四个**铁锭** :iron_ingot: 
 - 地图中的木桶有概率会生成**铁锭** :iron_ingot:
 
 **粗铁的获取**
-- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石将获得一个**粗铁**
+- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石和深层铁矿石将获得一个**粗铁**
   挖掘粗铁块将会获得三个**粗铁**
-- 使用二阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石将获得一至两个**粗铁** 
+- 使用二阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石和深层铁矿石将获得一至两个**粗铁** 
   挖掘粗铁块将会固定获得四个**粗铁**
   
 > 升级[熔炼镐](/hgw/items/equipments#镐)可以极大加快获取铁锭的效率！
