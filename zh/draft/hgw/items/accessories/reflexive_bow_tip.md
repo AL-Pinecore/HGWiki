@@ -2,7 +2,7 @@
 title: 反曲弓梢
 description: 
 published: true
-date: 2026-02-21T11:27:25.227Z
+date: 2026-02-21T11:43:48.534Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T19:54:31.492Z
@@ -14,8 +14,7 @@ dateCreated: 2026-02-20T19:54:31.492Z
 
 编写: NocolorThinker
 
----
-
+## 基本信息
 
 **品质:** 任何
 
