@@ -2,7 +2,7 @@
 title: 卫道士
 description: 
 published: true
-date: 2026-02-21T08:04:42.383Z
+date: 2026-02-21T08:09:30.136Z
 tags: 生物
 editor: markdown
 dateCreated: 2026-02-21T05:53:24.480Z
@@ -39,7 +39,7 @@ dateCreated: 2026-02-21T05:53:24.480Z
 攻击速度：1.5s
 
 ## 生成
-![试炼1a.png](/试炼1a.png =350x)![试炼1b.png](/试炼1b.png =321x)
+![试炼1a.png](/trials1a.png =350x)![试炼1b.png](/trials1b.png =321x)
 **图中红框为会生成卫道士的试炼地*
 
 
