@@ -2,15 +2,19 @@
 title: 沼骸
 description: 
 published: false
-date: 2026-02-21T04:16:36.214Z
+date: 2026-02-21T04:17:07.918Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:44:08.546Z
 ---
 
+> 该页面已完工！
+{.is-success}
+
+
 # 沼骸
 
-本页旨在帮助您了解[乐魂战](/hgw)中的试炼怪物：沼骸
+本页旨在帮助您了解[乐魂战](/hgw)中的[试炼](/hgw/trials)怪物：沼骸
 
 目录：| [行为](#行为) | [数值](#数值) | [生成](#生成) |
 
