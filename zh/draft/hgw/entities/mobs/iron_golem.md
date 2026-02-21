@@ -2,7 +2,7 @@
 title: 铁傀儡
 description: 
 published: true
-date: 2026-02-21T10:13:18.383Z
+date: 2026-02-21T10:14:37.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T10:13:18.383Z
@@ -39,7 +39,7 @@ dateCreated: 2026-02-21T10:13:18.383Z
 
 ## 生成
 ![试炼刷怪笼3.png](/试炼刷怪笼3.png)
-**图中红框为会生成铁傀儡的试炼地*
+**图中红框标注的试炼刷怪笼会生成沼骸*
 
 
 
