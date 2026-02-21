@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T08:34:24.095Z
+date: 2026-02-21T08:42:51.237Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -21,24 +21,24 @@ dateCreated: 2026-02-21T03:34:51.336Z
 - **简述**：
   该资源需通过地图上任意种类的原木或去皮原木获得。它们被挖掘后无论种类，都会在玩家背包内加入一个橡木原木，并会随着时间再生。
 
-![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
-~一个生成在紫晶矿区中的云杉木原木~ ~一个生成在浮竞技场上的橡木原木~ ~一个生成在紫晶矿区中的去皮云杉原木~
+![log.png](/icons/resources/log.png =200x200) ![log-crafted.png](/icons/resources/log-crafted.png =200x200) ![log-frost.png](/icons/resources/log-frost.png =200x200)
+~一个生成在紫晶矿区中的云杉木原木~ ~一个生成在紫晶矿区中的去皮云杉原木~ ~一个生成在紫晶矿区中的从林木原木~
 
 ---
 
 **获取**
-- 游戏开始时，玩家将获得128个原木~既两组原木~ :log:
+- 游戏开始时，玩家将获得128个**原木**~既两组原木~ :log:
 点击查看详情：[初始物资](/zh/hgw/mechanisms)
-- 使用任意的[斧](/hgw/items/equipments#斧)挖掘地图上的生成的任意**原木**（例:*橡木原木，云杉原木*）~*包括去皮原木*~将获得一块橡木原木 :log:
->   玩家放置的原木可以被挖掘，但在挖掘后不会获得任何资源
+- 使用任意的[斧](/hgw/items/equipments#斧)挖掘地图上的生成的任意**原木**（例:*橡木原木，云杉原木*）~*包括去皮原木*~将获得一块**橡木原木** :log:
+>   玩家放置的**原木**可以被挖掘，但在挖掘后不会获得任何资源
 {.is-warning}
-- 地图中的木桶有概率会生成**原木** :log:
+- 地图中的**木桶** :barrel: 有概率会生成**原木** :log:
 > 升级[合金斧](/hgw/items/equipments#镐)可以极大加快获取原木的效率！
 {.is-info}
 
 ---
 **机制**
-*原木不仅可以作为资源使用，也可以被玩家**放置***
+***原木**不仅可以作为资源使用，也可以被玩家**放置***
 点击查看详情：[快速建造模式](/zh/hgw/mechanisms)
 
 ---
@@ -74,7 +74,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
   [机械匕首](/hgw/items/equipments#机械匕首) （二阶匕首）
   [铁矛](/hgw/items/equipments#矛) （二阶矛）
  
-- 用于制作箭矢：详细请查看[冶炼](/hgw#冶炼)
+- 用于制作**箭矢**：详细请查看[冶炼](/hgw#冶炼)
 - 用于将**胸甲附魔**更换成**弹射物保护Ⅲ**和**爆炸保护Ⅳ**
 ---
 **历史**
