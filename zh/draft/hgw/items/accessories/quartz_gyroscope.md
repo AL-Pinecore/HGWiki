@@ -2,7 +2,7 @@
 title: 石英陀螺仪
 description: 
 published: true
-date: 2026-02-20T23:09:55.528Z
+date: 2026-02-21T12:05:31.393Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:06:32.542Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T20:06:32.542Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
