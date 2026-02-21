@@ -2,7 +2,7 @@
 title: 动能核心
 description: 
 published: true
-date: 2026-02-21T11:26:54.555Z
+date: 2026-02-21T11:43:06.957Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:45:40.495Z
@@ -14,8 +14,7 @@ dateCreated: 2026-02-20T22:45:40.495Z
 
 编写: NocolorThinker
 
----
-
+## 基本信息
 
 **品质:** 任何
 
