@@ -2,7 +2,7 @@
 title: 消耗品
 description: 
 published: true
-date: 2026-02-21T06:49:41.797Z
+date: 2026-02-21T06:50:43.170Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:30:44.132Z
@@ -18,7 +18,7 @@ dateCreated: 2026-02-18T15:30:44.132Z
 目录：
 - | [药水](#药水) | [食物](#食物) | [装填物](#装填物) | [其他](#其他) |
 
-编写：珍枝Zhenzhi
+编写：珍枝Zhenzhi&yuan__zhe
 > 请注意，此页中的图片仅供参考，以游戏内为准。
 {.is-warning}
 
