@@ -2,7 +2,7 @@
 title: 氧化装置
 description: 
 published: true
-date: 2026-02-21T06:54:59.556Z
+date: 2026-02-21T11:50:28.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:38:39.779Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T20:38:39.779Z
 
 编写: NocolorThinker
 
-### 品质 仅紫色、金色
+## 基本信息
+
+**品质:** 仅紫色、金色
 
 **获取:** 准备阶段自选配件，试炼
 
