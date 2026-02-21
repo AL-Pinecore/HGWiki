@@ -2,7 +2,7 @@
 title: 钛钢机身
 description: 
 published: true
-date: 2026-02-20T23:34:20.916Z
+date: 2026-02-21T12:09:58.134Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:52:30.176Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T22:52:30.176Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
