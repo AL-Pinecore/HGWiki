@@ -2,7 +2,7 @@
 title: 潜影核心
 description: 
 published: true
-date: 2026-02-21T11:58:35.318Z
+date: 2026-02-21T12:02:14.282Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:43:15.945Z
@@ -29,3 +29,7 @@ dateCreated: 2026-02-20T22:43:15.945Z
 **贴图:**
 
 ![shulker_core_i.png](/icons/accessory/shulker_core_i.png =150x150)![shulker_core_ii.png](/icons/accessory/shulker_core_ii.png =150x150)![shulker_core_iii.png](/icons/accessory/shulker_core_iii.png =150x150)![shulker_core_iv.png](/icons/accessory/shulker_core_iv.png =150x150)![shulker_core_v.png](/icons/accessory/shulker_core_v.png =150x150)
+
+
+> 潜影是一种神奇的物质，含杂质的潜影能够让场中物体所受重力减小，而纯粹的潜影......你去过太空吗？
+——NocolorThinker
