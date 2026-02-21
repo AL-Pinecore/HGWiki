@@ -2,7 +2,7 @@
 title: 末影锚
 description: 
 published: true
-date: 2026-02-21T00:23:34.650Z
+date: 2026-02-21T11:48:52.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T14:25:43.240Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T14:25:43.240Z
 
 编写: NocolorThinker
 
-### 品质 仅金色
+## 基本信息
+
+**品质:** 仅金色
 
 **获取:** *~~该配件目前没有获取方式~~*  试炼
 
