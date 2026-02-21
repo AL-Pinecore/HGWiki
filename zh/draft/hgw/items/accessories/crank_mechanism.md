@@ -2,7 +2,7 @@
 title: 曲柄机构
 description: 
 published: true
-date: 2026-02-20T23:16:30.017Z
+date: 2026-02-21T11:47:45.802Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T23:15:48.497Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T23:15:48.497Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
