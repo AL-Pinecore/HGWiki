@@ -2,7 +2,7 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-21T06:31:25.842Z
+date: 2026-02-21T11:19:36.283Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T13:10:51.490Z
 
 编写: NocolorThinker&yuan__zhe
 
-### 品质 仅蓝色
+**品质:** 仅蓝色
 
 **获取:** 准备阶段自选配件，试炼
 
