@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T04:00:12.824Z
+date: 2026-02-21T04:00:26.192Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -33,7 +33,7 @@ dateCreated: 2026-02-21T04:00:12.824Z
   [重型巨弩](/hgw/items/equipments#重弩) （二阶重弩）
 - 用于升级:
   [核心熔炉等级](/hgw/upgrades#核心熔炉)（三阶合金熔炼炉）
-  [乐魂合金护甲+](/hgw/upgrades#乐魂护甲)（四级乐魂护甲）
+  [乐魂合金护甲](/hgw/upgrades#乐魂护甲)（四级乐魂护甲）
   [风暴合金剑](/hgw/items/equipments#剑) （三阶剑）
   [熔炼镐](/hgw/items/equipments#镐) （三阶镐）
   [合金斧](/hgw/items/equipments#斧) （三阶斧）
