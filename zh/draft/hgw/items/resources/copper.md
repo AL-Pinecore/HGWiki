@@ -2,7 +2,7 @@
 title: 铜锭
 description: 
 published: true
-date: 2026-02-21T04:14:03.058Z
+date: 2026-02-21T06:15:14.061Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T02:32:34.957Z
@@ -27,7 +27,7 @@ dateCreated: 2026-02-21T02:32:34.957Z
 ---
 
 **获取**
-- 游戏开始时，玩家将获得30个铜锭 :copper_ingot:
+- 游戏开始时，玩家将获得30个**铜锭** :copper_ingot:
 点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 手持**粗铜**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铜**，获得一个**铜锭** :copper_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铜矿石或深层铜矿石将直接获得一至两个**铜锭** :copper_ingot:  
@@ -60,6 +60,6 @@ dateCreated: 2026-02-21T02:32:34.957Z
 
 ---
 **历史**
-乐魂战v1.1 :copper_ingot: 加入了铜锭与粗铜
+乐魂战v1.0 :copper_ingot: 加入了铜锭与粗铜
 
   
