@@ -2,7 +2,7 @@
 title: 云杉弓片
 description: 
 published: true
-date: 2026-02-20T22:58:11.838Z
+date: 2026-02-21T11:14:35.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T20:03:32.359Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T20:03:32.359Z
 
 编写: NocolorThinker
 
-### 品质 任何
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
