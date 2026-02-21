@@ -2,7 +2,7 @@
 title: 资源
 description: 
 published: true
-date: 2026-02-21T09:02:12.873Z
+date: 2026-02-21T09:02:45.495Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T15:34:10.882Z
@@ -20,6 +20,6 @@ dateCreated: 2026-02-18T15:34:10.882Z
 ---
 
 - 目录：
-[煤炭](/hgw/draft/items/resources/coal) :coal(20):
+[煤炭](/draft/hgw/items/resources/coal) :coal(20):
 [铁锭](/hgw/items/consumables)
 [紫晶碎片](/hgw/items/accessory) ***（[紫晶矿区](/hgw/maps#紫晶矿区)地图独有）***
