@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-21T09:49:18.200Z
+date: 2026-02-21T11:18:18.150Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -21,8 +21,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
 **简述**：
 -   该资源需通过地图上固定点位的**浅层铁矿石，深层铁矿石或粗铁块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。（[点击](/hgw/maps#紫晶矿区)了解其生成位置）
 
-![iron.png](/icons/resources/iron.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
-~一个生成在大铁岛上的普通铁矿石~ ~一个生成在大铁岛上的深层铁矿石~ ~一个生成在大铁岛上的粗铁块~
+![iron.png](/icons/resources/iron.png =200x200)![iron-block.png](/icons/resources/iron-block.png =200x200) 
+~一个生成在紫晶矿区中的普通铁矿石~  ~一个生成在浮岛竞技场中的的粗铁块~
 
 ---
 
