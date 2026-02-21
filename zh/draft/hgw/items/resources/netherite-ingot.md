@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T09:10:40.373Z
+date: 2026-02-21T09:35:47.892Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -27,8 +27,8 @@ dateCreated: 2026-02-21T04:00:12.824Z
 - 游戏开始时，玩家将获得30个**下界合金锭** :netherite_ingot:
 点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 玩家手持**铜锭** :copper_ingot: 与**铁锭** :iron_ingot: 进行[冶炼](/hgw#冶炼)，完成之后将消耗一个**铜锭** :copper_ingot: 与一个**铁锭** :iron_ingot: ，获得一个**下界合金锭** :netherite_ingot:
- 详细请查看[冶炼](/hgw#冶炼)
->  提升[炉温](/hgw#炉温)可以大大加快下界合金锭的[冶炼](/hgw#冶炼)速度！
+ 详细请查看[冶炼](/hgw/mechanisms/smelting)
+>  提升[炉温](/hgw/mechanisms/temp)可以大大加快下界合金锭的[冶炼](/hgw/mechanisms/smelting)速度！
 {.is-info}
 
 - 地图中的**木桶** :barrel: 有概率会生成**下界合金锭** :netherite_ingot:
