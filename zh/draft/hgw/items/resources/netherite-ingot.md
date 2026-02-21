@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T04:00:26.192Z
+date: 2026-02-21T04:06:43.651Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -19,11 +19,13 @@ dateCreated: 2026-02-21T04:00:12.824Z
 --- 
 
 - **简述**：
- 该资源仅能通过玩家冶炼获得，用于升级武器与工具，提升核心熔炉等级，升级乐魂护甲
+ 该资源通过玩家冶炼获得，用于升级武器与工具，提升核心熔炉等级，升级乐魂护甲
  详细请查看[冶炼](/hgw#冶炼)
 ---
 
 **获取**
+- 游戏开始时，玩家将获得30个下界合金锭 :netherite_ingot:
+点击查看详情：[初始物资](/zh/hgw/mechanisms)
 - 玩家手持铜锭 :copper_ingot: 与铁锭 :iron_ingot: 进行**冶炼**，完成之后将消耗**一个铜锭 :copper_ingot: 与一个铁锭 :iron_ingot: **，获得一个**下界合金锭** :netherite_ingot:
 - 地图中的木桶 :barrel: 有概率会生成下界合金锭 :netherite_ingot:
 ---
