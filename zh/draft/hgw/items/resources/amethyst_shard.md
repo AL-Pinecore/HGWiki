@@ -2,7 +2,7 @@
 title: 紫晶碎片
 description: 
 published: false
-date: 2026-02-20T15:58:38.347Z
+date: 2026-02-21T02:50:46.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:58:12.516Z
@@ -25,9 +25,13 @@ dateCreated: 2026-02-20T13:58:12.516Z
 
 ![紫水晶刷新.png](/紫水晶刷新.png =300x)
 
+---
+
 **获取**
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一个紫晶碎片 :amethyst_shard:
 - 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘紫水晶簇将获得一至两个紫晶碎片 :amethyst_shard:
+
+---
 
 **用途**
 - 在**合金熔炼炉**中，紫晶碎片可以用来升级：
@@ -37,3 +41,7 @@ dateCreated: 2026-02-20T13:58:12.516Z
 
 > 不推荐把紫晶碎片用于升级[紫晶匕首](/hgw/items/equipments#匕首)或[晶械连弩](/hgw/items/equipments#自动弩)这些**个人装备**！
 {.is-warning}
+
+---
+**历史**
+乐魂战v1.2 :amethyst_shard: 加入了紫水晶，紫水晶母岩与紫水晶簇
