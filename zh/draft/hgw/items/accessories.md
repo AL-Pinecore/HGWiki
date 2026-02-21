@@ -2,7 +2,7 @@
 title: 配件
 description: 
 published: true
-date: 2026-02-21T09:18:50.475Z
+date: 2026-02-21T09:30:53.990Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-19T14:39:07.826Z
@@ -14,7 +14,11 @@ dateCreated: 2026-02-19T14:39:07.826Z
 
 # 配件
 
-目录：
+目录：| [索引](#索引) | [获取](#获取) | [加成计算](#加成计算) | [装配和卸下](#装配和卸下) |
+
+编写：NocolorThinker
+
+## 索引
 
 - 任何工具 配件
 **通用**: | [动能核心](/zh/hgw/items/accessories/momentum_core) | [缓冲核心](/zh/hgw/items/accessories/cushion_core) | [骨质外壳](/zh/hgw/items/accessories/exoskeleton) | [潜影核心](/zh/hgw/items/accessories/shulker_core) |
@@ -30,22 +34,16 @@ dateCreated: 2026-02-19T14:39:07.826Z
 - 远程武器 配件
 **通用**: | [潮涌稳定器](/zh/hgw/items/accessories/conduit_stabilizer) | [光学棱镜](/zh/hgw/items/accessories/optical_prism) | [回旋轨道](/zh/hgw/items/accessories/gyro_track) | [活性弦](/zh/hgw/items/accessories/flexible_string) | [流线架构](/zh/hgw/items/accessories/streamlined_architecture) | [气动稳定器](/zh/hgw/items/accessories/pneumatic_stabilizer) | [氧化装置](/zh/hgw/items/accessories/oxidizer) | [引火装置](/zh/hgw/items/accessories/igniter) | 
 **弓**: | [反曲弓梢](/zh/hgw/items/accessories/reflexive_bow_tip) | [石英陀螺仪](/zh/hgw/items/accessories/quartz_gyroscope) | [云杉弓片](/zh/hgw/items/accessories/spruce_arcuale) |
-**弩**: | [绯红枢轴](/zh/hgw/items/accessories/crimson_pivot) | [青铜悬刀](/zh/hgw/items/accessories/bronze_trigger) | [钛钢机身](/zh/hgw/items/accessories/titanium_fuselage) | 
+**弩**: | [绯红枢轴](/zh/hgw/items/accessories/crimson_pivot) | [青铜悬刀](/zh/hgw/items/accessories/bronze_trigger) | [钛钢机身](/zh/hgw/items/accessories/titanium_fuselage) |  *注：包含普通弩，自动弩和重弩。
 **自动弩**: | [星辉纹刻](/zh/hgw/items/accessories/meteoric_epigraph) | [压电感应器](/zh/hgw/items/accessories/piezoelectric_sensor) |
 **重弩**: | [爆轰弩架](/zh/hgw/items/accessories/bombarding_ballista) | [轻量化构造](/zh/hgw/items/accessories/lightweight_construction) | [压电感应器](/zh/hgw/items/accessories/piezoelectric_sensor) | [自动化组件](/zh/hgw/items/accessories/auto_module) |
-*弩包含普通弩，自动弩，重弩。*
 
 - 其他装备 配件
 **护甲**: 暂无
 **盾牌**: 暂无
 **核心火炮**: | [放射性镀层](/zh/hgw/items/accessories/radioactive_coating) | [附加核心](/zh/hgw/items/accessories/auxiliary_core) | [回响矩阵](/zh/hgw/items/accessories/resonance_matrix) | [聚合核心](/zh/hgw/items/accessories/aggregation_core) | [玄钢飞轮](/zh/hgw/items/accessories/tamahagane_flywheel) |
 **弹射器**: | [黄铜飞轮](/zh/hgw/items/accessories/brass_flywheel) | [排气冷凝器](/zh/hgw/items/accessories/degassing_cooler) | [曲柄机构](/zh/hgw/items/accessories/crank_mechanism) | [调速机构](/zh/hgw/items/accessories/governor) |
-**钩爪**: | [传送钩爪](/zh/hgw/items/accessories/ender_claw) |
-
-编写：NocolorThinker
-
-
-
+**钓鱼竿**: | [传送钩爪](/zh/hgw/items/accessories/ender_claw) |
 
 ## 获取
 配件共有三种获取方式，分别为
@@ -61,27 +59,26 @@ dateCreated: 2026-02-19T14:39:07.826Z
 
 
 ## 加成计算
-**对于单个配件**
+- **对于单个配件**
 若配件的词条为 +x ，则最终数值为x~0~+x。
 若配件的词条为 +x% ，则最终数值为x~0~(1+x%)。
 
-**对于多个配件**
+- **对于多个配件**
 若配件的词条分别为 +x~1~ ， +x~2~ ， +x~3~ ，则最终数值为 x~0~+x~1~+x~2~+x~3~ ，即累加。
 若配件的词条分别为 +x~1~% ， +x~2~% ， +x~3~% ，则最终数值为 x~0~(1+x~1~%)(1+x~2~%)(1+x~3~%) ，即累乘。
 
-**对于某些并不直接加成面板数值的配件**
+- **对于某些并不直接加成面板数值的配件**
 如排气冷凝器，其词条为 蓄力速度+%
 那么您可以将弹射器的蓄力时间换算为蓄力速度，再进行计算，最后换回蓄力时间。
 
 
 ## 装配和卸下
 
-**装配**
+- **装配**
 打开背包时，将配件移到对应的武器上并右键
 
-**卸下**
-打开背包，并对武器右键即可打开卸下配件界面，在点击需要卸下的配件点击代表确定的绿色玻璃，即可卸下配件
->
+- **卸下**
+打开背包，对装备右键即可打开配件界面。点击需要卸下的配件并确认，即可卸下该配件
 
 
 
