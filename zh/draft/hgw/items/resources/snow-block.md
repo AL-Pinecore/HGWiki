@@ -2,7 +2,7 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T08:54:34.349Z
+date: 2026-02-21T09:55:08.835Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-21T04:47:20.233Z
 --- 
 
  **简述**：
-- 该资源需通过地图上固定点位的**雪块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
+- 该资源需通过地图上固定点位的**雪块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。（[点击](/hgw/maps#紫晶矿区)了解其生成位置）
 
 ![snow-block.png](/icons/resources/snow-block.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在紫晶矿区中的中岛上的雪块~ ~一个生成在浮岛竞技场中的雪岛上的雪块~ ~一个生成在浮岛竞技场中的烟囱雪岛上的雪块~
@@ -29,7 +29,7 @@ dateCreated: 2026-02-21T04:47:20.233Z
 **获取**
 - 当玩家背包中有4个及以上的**雪球**时，将自动消耗四个**雪球**合成一个**雪块** :snow_block: 置入玩家背包
 - 使用三阶的[锹](/hgw/items/equipments#锹)挖掘**雪块**将直接获得一个**雪块** :snow_block:  
-> 雪块十分重要，强烈建议让一名成员开局点满铁锹去挖掘至少27组的雪块
+> 雪块 :snow_block: 十分重要，每支队伍应当开局备满至少27组雪块 :snow_block:
 {.is-info}
 
 **雪球的获取**
@@ -43,7 +43,7 @@ dateCreated: 2026-02-21T04:47:20.233Z
 - 用于升级:
   [乐魂血量上限](/hgw/upgrades#乐魂血量上限) :ghastling: **（*每只乐魂最多升级三次*）**
 - 用于乐魂恢复血量
-  点击查看详情：[乐魂血量恢复](/zh/hgw/snow-block)
+  点击了解更多：[乐魂自动回血](//hgw/mechanisms/auto-regenerate)
 
 
 ---
