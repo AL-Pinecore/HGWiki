@@ -2,7 +2,7 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T04:48:02.933Z
+date: 2026-02-21T06:20:31.509Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
@@ -29,6 +29,8 @@ dateCreated: 2026-02-21T04:47:20.233Z
 **获取**
 - 当玩家背包中有4个及以上的雪球时，将自动消耗四个*雪球*合成一个**雪块** :snow_block: 置入玩家背包
 - 使用三阶的[锹](/hgw/items/equipments#锹)挖掘雪块将直接获得一个**雪块** :snow_block:  
+> 雪块十分重要，强烈建议让一名成员开局点满铁锹去挖掘至少27组的雪块
+{.is-info}
 
 **雪球的获取**
 - 使用零阶的[锹](/hgw/items/equipments#锹)挖掘雪块将获得一个**雪球**
@@ -46,4 +48,4 @@ dateCreated: 2026-02-21T04:47:20.233Z
 
 ---
 **历史**
-乐魂战v1.1 :snow_block: 加入了雪块与雪球
+乐魂战v1.0 :snow_block: 加入了雪块与雪球
