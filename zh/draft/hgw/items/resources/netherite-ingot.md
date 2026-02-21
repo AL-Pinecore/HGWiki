@@ -2,7 +2,7 @@
 title: 下界合金锭
 description: 
 published: true
-date: 2026-02-21T04:07:33.958Z
+date: 2026-02-21T04:22:03.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:00:12.824Z
@@ -11,7 +11,7 @@ dateCreated: 2026-02-21T04:00:12.824Z
 > 该页面未完工！
 {.is-danger}
 
-# 煤炭
+# 下界合金锭
 下界合金锭 :netherite_ingot: 是游戏[乐魂战](/quick-start#乐魂战)中的一种高级资源。
 
 编写：yeyingQAQ & 珍枝Zhenzhi
