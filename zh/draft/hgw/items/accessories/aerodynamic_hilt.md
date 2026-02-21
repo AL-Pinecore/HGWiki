@@ -2,7 +2,7 @@
 title: 气动剑柄
 description: 
 published: true
-date: 2026-02-20T23:05:20.864Z
+date: 2026-02-21T11:49:37.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:20:50.790Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T13:20:50.790Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
