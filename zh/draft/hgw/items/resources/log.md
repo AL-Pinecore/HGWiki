@@ -2,14 +2,14 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T09:11:21.164Z
+date: 2026-02-21T09:11:39.569Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
 ---
 
-> 该页面未完工！
-{.is-danger}
+> 该页面已完工 待发布！
+{.is-success}
 
 # 原木
 **原木** :log: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
