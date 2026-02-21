@@ -2,7 +2,7 @@
 title: 铁锭
 description: 
 published: false
-date: 2026-02-20T15:29:25.758Z
+date: 2026-02-21T02:51:53.212Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:07:03.589Z
@@ -24,6 +24,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
 ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200) ![waite.png](/icons/function-images/waite.png =200x200)
 ~一个生成在大铁岛上的普通铁矿石~ ~一个生成在大铁岛上的深层铁矿石~ ~一个生成在大铁岛上的粗铁块~
 
+---
+
 **获取**
 - 手持**粗铁**对准核心熔炉长按右键，开始[冶炼](/hgw#冶炼)。随后消耗一个**粗铁**，获得一个**铁锭** :iron_ingot:
 - 使用三阶的[镐](/hgw/items/equipments#镐)挖掘浅层铁矿石或深层铁矿石将直接获得一至两个**铁锭** :iron_ingot:  
@@ -38,6 +40,8 @@ dateCreated: 2026-02-20T15:07:03.589Z
   
 > 升级[熔炼镐](/hgw/items/equipments#镐)可以极大加快获取铁锭的效率！
 {.is-info}
+
+---
 
 **用途**：
 - 用于购买：
@@ -74,6 +78,9 @@ dateCreated: 2026-02-20T15:07:03.589Z
 - 用于制作合金锭：详细请查看[冶炼](/hgw#冶炼)
 - 用于更换胸甲附魔
   
+---
+**历史**
+乐魂战v1.1 :iron_ingot: 加入了铁锭与粗铁
   
   
   
