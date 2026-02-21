@@ -2,7 +2,7 @@
 title: 回响矩阵
 description: 
 published: true
-date: 2026-02-20T23:52:57.802Z
+date: 2026-02-21T00:29:01.295Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:19:49.045Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T22:19:49.045Z
 
 编写: NocolorThinker
 
-### 品质 仅紫色，金色
+### 品质 仅紫色、金色
 
 **获取:** 试炼
 
