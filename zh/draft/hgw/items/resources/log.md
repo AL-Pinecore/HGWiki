@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T09:44:12.880Z
+date: 2026-02-21T09:50:19.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -28,7 +28,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 **获取**
 - 游戏开始时，玩家将获得128个~即两组~**原木** :log:
-点击了解更多：[初始物资](/zh/hgw/mechanisms)
+点击了解更多：[初始物资](/hgw/mechanisms/starting)
 - 挖掘地图上的任意**原木**（例:*橡木原木，云杉原木*）~*包括去皮原木*~将获得一块**橡木原木** :log:
 >   挖掘木板将不会获得任何资源
 {.is-warning}
