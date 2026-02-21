@@ -2,7 +2,7 @@
 title: 轻量化构造
 description: 
 published: true
-date: 2026-02-21T00:23:10.641Z
+date: 2026-02-21T12:07:27.837Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T15:35:10.903Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T15:35:10.903Z
 
 编写: NocolorThinker
 
-### 品质 任何
+## 基本信息
+
+**品质:** 任何
 
 **获取:** 准备阶段自选配件，试炼
 
