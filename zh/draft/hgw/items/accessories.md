@@ -2,7 +2,7 @@
 title: 配件
 description: 
 published: true
-date: 2026-02-21T09:58:14.717Z
+date: 2026-02-21T15:32:01.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-19T14:39:07.826Z
@@ -18,7 +18,7 @@ dateCreated: 2026-02-19T14:39:07.826Z
 
 编写：NocolorThinker
 
-## 索引
+## 目录
 
 - 任何工具 配件
 **通用**: | [动能核心](/zh/hgw/items/accessories/momentum_core) | [缓冲核心](/zh/hgw/items/accessories/cushion_core) | [骨质外壳](/zh/hgw/items/accessories/exoskeleton) | [潜影核心](/zh/hgw/items/accessories/shulker_core) |
