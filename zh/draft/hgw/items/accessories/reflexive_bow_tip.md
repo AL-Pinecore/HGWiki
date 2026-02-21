@@ -2,7 +2,7 @@
 title: 反曲弓梢
 description: 
 published: true
-date: 2026-02-21T11:43:48.534Z
+date: 2026-02-21T12:09:29.354Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T19:54:31.492Z
@@ -31,6 +31,3 @@ dateCreated: 2026-02-20T19:54:31.492Z
 ![reflexive_bow_tip_i.png](/icons/accessory/reflexive_bow_tip_i.png =150x150)![reflexive_bow_tip_ii.png](/icons/accessory/reflexive_bow_tip_ii.png =150x150)![reflexive_bow_tip_iii.png](/icons/accessory/reflexive_bow_tip_iii.png =150x150)![reflexive_bow_tip_iv.png](/icons/accessory/reflexive_bow_tip_iv.png =150x150)![reflexive_bow_tip_v.png](/icons/accessory/reflexive_bow_tip_v.png =150x150)
 
 
-## 历史
-- 将词条1 弹射物伤害: 从+[0.2,1.2]  改为+[3,39]%
-*原加算位于所有其他计算后*
