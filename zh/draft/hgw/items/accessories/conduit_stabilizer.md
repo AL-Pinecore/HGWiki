@@ -2,7 +2,7 @@
 title: 潮涌稳定器
 description: 
 published: true
-date: 2026-02-20T23:08:28.201Z
+date: 2026-02-21T12:02:57.170Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T21:18:44.572Z
@@ -14,7 +14,9 @@ dateCreated: 2026-02-20T21:18:44.572Z
 
 编写: NocolorThinker
 
-### 品质 仅紫色
+## 基本信息
+
+**品质:** 仅紫色
 
 **获取:** 准备阶段自选配件，试炼
 
