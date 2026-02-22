@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-22T08:23:49.708Z
+date: 2026-02-22T08:48:06.405Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -13,9 +13,9 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 # 原木
 
-> 本页面中
-> 粗体**原木**均指**橡木原木**物品
-> 粗斜体***原木***均指Minecraft Wiki中的[原木](https://zh.minecraft.wiki/w/原木)
+> 本页面中，
+> 粗体**原木**均指**橡木原木**物品。
+> 粗斜体***原木***均指Minecraft Wiki中[原木](https://zh.minecraft.wiki/w/原木)界面所指。
 {.is-info}
 
 **原木** :log: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。 *~~这才是最多的资源~~*
@@ -33,7 +33,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 ---
 
 **获取**
-- 游戏开始时，玩家将获得128个~即两组~**原木** :log:
+- 游戏开始时，玩家将获得128个**原木** :log:
 点击了解更多：[初始物资](/hgw/mechanisms/starting)
 - 挖掘地图上的任意***原木***或***木头***以及其去皮变种（例:*云杉原木*，*去皮丛林木*）将获得一块**原木** :log:
 >   挖掘木板将不会获得任何资源
@@ -64,7 +64,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 - 用于升级:
   [二级乐魂护甲](/hgw/items/equipments#乐魂护甲) （二级乐魂护甲）
-  [风暴剑](/hgw/items/equipments#剑) （二阶剑）
+  [风爆剑](/hgw/items/equipments#剑) （二阶剑）
   [时运镐](/hgw/items/equipments#镐) （二阶镐）
   [效率铁斧](/hgw/items/equipments#斧) （二阶斧）
   [合金斧](/hgw/items/equipments#斧) （三阶斧）
@@ -76,8 +76,10 @@ dateCreated: 2026-02-21T03:34:51.336Z
   [机械弩](/hgw/items/equipments#机械弩) （三阶自动弩） 
   [二阶钓鱼竿](/hgw/items/equipments#二阶钓鱼竿) （二阶钓鱼竿） 
   [三阶钓鱼竿](/hgw/items/equipments#三阶钓鱼竿) （三阶钓鱼竿）
+  [硬质盾](/hgw/items/equipments#盾) （二阶盾）
+  [合金盾](/hgw/items/equipments#盾) （三阶盾）
   [进阶弹射器](/hgw/items/equipments#进阶弹射器) （二阶弹射器） 
-  [进高阶射器](/hgw/items/equipments#高阶弹射器) （三阶弹射器）
+  [高阶弹射器](/hgw/items/equipments#高阶弹射器) （三阶弹射器）
   [机械匕首](/hgw/items/equipments#机械匕首) （二阶匕首）
   [铁矛](/hgw/items/equipments#矛) （二阶矛）
  
