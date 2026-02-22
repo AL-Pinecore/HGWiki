@@ -2,15 +2,14 @@
 title: 雪块
 description: 
 published: true
-date: 2026-02-21T13:47:51.520Z
+date: 2026-02-22T01:29:51.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T04:47:20.233Z
 ---
 
-> 该页面未完工！
-{.is-danger}
-
+> 该页面已完工 待发布！
+{.is-success}
 # 雪块
 **雪块** :snow_block: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
