@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T02:48:52.502Z
+date: 2026-02-22T02:49:15.448Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -51,7 +51,7 @@ dateCreated: 2026-02-18T20:37:45.367Z
   
   <div class="hg-card">
     <h3>那如果我很长呢？</h3>
-    <a href="./ring">:iron_ingotKE9NE </a>
+    <a href="./ring">:iron_ingot:KE9NE </a>
     <a href="./ring">:iron_ingot:Mythend </a>
     <a href="./ring">:iron_ingot:MwMiao </a>
     <a href="./ring">:iron_ingot:Noryea </a>
