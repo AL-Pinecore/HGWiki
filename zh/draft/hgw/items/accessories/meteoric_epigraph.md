@@ -2,7 +2,7 @@
 title: 星辉纹刻
 description: 
 published: true
-date: 2026-02-22T09:20:57.748Z
+date: 2026-02-22T09:24:06.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T19:47:19.057Z
@@ -33,6 +33,6 @@ dateCreated: 2026-02-20T19:47:19.057Z
 
 ![meteoric_epigraph_i.png](/icons/accessory/meteoric_epigraph_i.png =150x150)![meteoric_epigraph_ii.png](/icons/accessory/meteoric_epigraph_ii.png =150x150)![meteoric_epigraph_iii.png](/icons/accessory/meteoric_epigraph_iii.png =150x150)![meteoric_epigraph_iv.png](/icons/accessory/meteoric_epigraph_iv.png =150x150)![meteoric_epigraph_v.png](/icons/accessory/meteoric_epigraph_v.png =150x150)
 
->尽管星辉纹刻的装备需求描述与[压电感应器](/zh/hgw/items/accessories/piezoelectric_sensor)一样。但很可惜，其无法装备于已装有[自动化组件](/zh/hgw/items/accessories/auto_module)的[重弩](/zh/hgw/items/equipments#重弩)上
+>尽管星辉纹刻的适用装备与[压电感应器](/zh/hgw/items/accessories/piezoelectric_sensor)相同，但很可惜，其无法装备于已装备有[自动化组件](/zh/hgw/items/accessories/auto_module)的[重弩](/zh/hgw/items/equipments#重弩)上。
 {.is-info}
 
