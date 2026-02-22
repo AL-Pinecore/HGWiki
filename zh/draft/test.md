@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T02:13:06.765Z
+date: 2026-02-22T02:17:40.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-18T20:37:45.367Z
   </div>
 
   <div class="hg-card">
-    <h3>我是山里灵活的:happy_ghast:</h3>
+    <h3>我是mythend的:happy_ghast:</h3>
     <a href="./potion">HGWWW</a><br>
     <a href="./scroll">Mythedn</a>
   </div>
