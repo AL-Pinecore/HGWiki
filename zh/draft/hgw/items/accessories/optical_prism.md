@@ -2,7 +2,7 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-21T11:41:59.372Z
+date: 2026-02-22T09:27:35.633Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
@@ -29,4 +29,5 @@ dateCreated: 2026-02-20T13:10:51.490Z
 **贴图:**
 ![optical_prism.png](/icons/accessory/optical_prism.png =150x150)
 
-> 如果您有阴人的需求，就搭配隐身药水使用它吧。 ——yuan__zhe
+> 如果您有在狙击的同时隐藏自身的需求，就搭配隐身药水使用它吧。
+{.is-info}
