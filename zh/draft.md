@@ -2,7 +2,7 @@
 title: 草稿
 description: 
 published: true
-date: 2026-02-21T01:56:22.172Z
+date: 2026-02-22T09:15:27.544Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T13:26:20.583Z
@@ -138,4 +138,4 @@ dateCreated: 2026-02-18T13:26:20.583Z
 ---
 
 
-相关链接：[百科结构](/private/structure) | [wiki.js官方文档](https://docs.requarks.io/guide/intro) | [图标使用](/private/icons) | [页面模版](/zh/private/template/items))
+相关链接：[百科结构](/private/structure) | [wiki.js官方文档](https://docs.requarks.io/guide/intro) | [图标使用](/private/icons) | [页面模版](/zh/private/template/items)) | [组件库](https://shoelace.style)
