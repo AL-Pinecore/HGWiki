@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: true
-date: 2026-02-22T09:11:24.900Z
+date: 2026-02-22T09:27:44.021Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -19,10 +19,10 @@ dateCreated: 2026-02-20T13:54:15.643Z
 --- 
 
 **简述**：
-- 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
+- 该资源可通过挖掘地图上固定点位的**煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘后，**煤炭** :coal: 会直接进入玩家背包，并会随着时间再生。
 
 ![coal.png](/icons/resources/coal.png =200x200) ![coal-deep.png](/icons/resources/coal-deep.png =200x200) ![coal-block.png](/icons/resources/coal-block.png =200x200)
-一个生成在紫晶矿区中的普通煤矿石 一个生成在紫晶矿区中的深层煤矿石 一个生成在紫晶矿区的煤炭块
+一个生成在紫晶矿区中的煤矿石 一个生成在紫晶矿区中的深层煤矿石 一个生成在紫晶矿区的煤炭块
 
 ---
 
@@ -30,7 +30,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 - 游戏开始时，玩家将获得35个**煤炭** :coal: 。
 点击查看详情：[初始物资](/hgw/mechanisms/starting)
 - 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个**煤炭** :coal: 。
-  挖掘煤炭块将会获得三个**煤炭** :coal: 。
+  挖掘煤炭块将获得三个**煤炭** :coal: 。
 - 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个**煤炭** :coal: 。
   挖掘煤炭块将会固定获得四个**煤炭** :coal: 。
 
