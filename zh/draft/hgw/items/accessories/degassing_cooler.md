@@ -2,7 +2,7 @@
 title: 排气冷凝器
 description: 
 published: true
-date: 2026-02-21T11:47:09.350Z
+date: 2026-02-22T09:41:19.347Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T22:29:33.304Z
@@ -32,4 +32,5 @@ dateCreated: 2026-02-20T22:29:33.304Z
 ![degassing_cooler_i.png](/icons/accessory/degassing_cooler_i.png =150x150)![degassing_cooler_ii.png](/icons/accessory/degassing_cooler_ii.png =150x150)![degassing_cooler_iii.png](/icons/accessory/degassing_cooler_iii.png =150x150)![degassing_cooler_iv.png](/icons/accessory/degassing_cooler_iv.png =150x150)![degassing_cooler_v.png](/icons/accessory/degassing_cooler_v.png =150x150)
 
 
-> 风也会过热吗? ——NocolorThinker
+> 风也会过热吗? 
+——NocolorThinker
