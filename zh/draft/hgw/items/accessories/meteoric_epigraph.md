@@ -2,7 +2,7 @@
 title: 星辉纹刻
 description: 
 published: true
-date: 2026-02-22T09:08:51.677Z
+date: 2026-02-22T09:10:23.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T19:47:19.057Z
@@ -33,6 +33,6 @@ dateCreated: 2026-02-20T19:47:19.057Z
 
 ![meteoric_epigraph_i.png](/icons/accessory/meteoric_epigraph_i.png =150x150)![meteoric_epigraph_ii.png](/icons/accessory/meteoric_epigraph_ii.png =150x150)![meteoric_epigraph_iii.png](/icons/accessory/meteoric_epigraph_iii.png =150x150)![meteoric_epigraph_iv.png](/icons/accessory/meteoric_epigraph_iv.png =150x150)![meteoric_epigraph_v.png](/icons/accessory/meteoric_epigraph_v.png =150x150)
 
->尽管星辉纹刻的装配描述与压电感应器一样。但很可惜，其无法装到已装有[自动化改造](/zh/hgw/items/equipments#自动化改造)的[重弩](/zh/hgw/items/equipments#重弩)上
+>尽管星辉纹刻的装配描述与压电感应器一样。但很可惜，其无法装到已装有[自动化改造](/zh/hgw/items/accessories/auto_module)的[重弩](/zh/hgw/items/equipments#重弩)上
 {.is-info}
 
