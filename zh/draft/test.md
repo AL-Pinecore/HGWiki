@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T08:52:29.866Z
+date: 2026-02-22T08:54:56.966Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -21,8 +21,8 @@ dateCreated: 2026-02-18T20:37:45.367Z
 
 <sl-alert open>
   <sl-icon slot="icon" name="info-circle"></sl-icon>
-  This is a standard alert. You can customize its content and even the icon.
+  This is a standard alert. You can customize its content and even the icon. :accessory/spruce_arcuale_v:
 </sl-alert>
 
-:accessory/spruce_arcuale_v:
+
 :accessory/spruce_arcuale_v(100)::accessory/spruce_arcuale_v(100)::accessory/spruce_arcuale_v(100):
