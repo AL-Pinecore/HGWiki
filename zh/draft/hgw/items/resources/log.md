@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-21T09:50:19.438Z
+date: 2026-02-22T07:55:50.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -14,15 +14,15 @@ dateCreated: 2026-02-21T03:34:51.336Z
 # 原木
 **原木** :log: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。 *~~这才是最多的资源~~*
 
-编写：yeyingQAQ & 珍枝Zhenzhi
+编写：yeyingQAQ & 珍枝Zhenzhi & NocolorThinker
 
 --- 
 
 **简述**：
- - 该资源需通过地图上任意种类的**原木**或**去皮原木**获得。它们被挖掘后无论种类，玩家都会获得**橡木原木**，并会随时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
+ - 该资源需通过地图上任意种类的**原木**、**去皮原木**、**木头**、**去皮木头**获得。它们被挖掘后无论种类，玩家都会获得**橡木原木**，并会随时间再生。*（[点击](/hgw/maps#紫晶矿区)了解其生成位置）*
 
 ![log.png](/icons/resources/log.png =200x200) ![log-crafted.png](/icons/resources/log-crafted.png =200x200) ![log-frost.png](/icons/resources/log-frost.png =200x200)
-~一个生成在紫晶矿区中的云杉木原木~ ~一个生成在紫晶矿区中的去皮云杉原木~ ~一个生成在紫晶矿区中的从林木原木~
+~一个生成在紫晶矿区中的云杉原木~ ~一个生成在紫晶矿区中的去皮云杉木~ ~一个生成在紫晶矿区中的从林木~
 
 ---
 
