@@ -2,7 +2,7 @@
 title: 煤炭
 description: 
 published: true
-date: 2026-02-21T09:50:40.447Z
+date: 2026-02-22T09:11:24.900Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:54:15.643Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
 # 煤炭
 **煤炭** :coal: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。
 
-编写：yeyingQAQ & 珍枝Zhenzhi
+编写：yeyingQAQ & 珍枝Zhenzhi & NocolorThinker
 
 --- 
 
@@ -22,17 +22,17 @@ dateCreated: 2026-02-20T13:54:15.643Z
 - 该资源可通过挖掘地图上固定点位的**浅层煤矿石，深层煤矿石或煤炭块**获得。它们被挖掘会直接进入玩家背包，并会随着时间再生。
 
 ![coal.png](/icons/resources/coal.png =200x200) ![coal-deep.png](/icons/resources/coal-deep.png =200x200) ![coal-block.png](/icons/resources/coal-block.png =200x200)
-~一个生成在大煤炭岛上的普通煤矿石~ ~一个生成在大煤炭岛上的深层煤矿石~ ~一个生成在大煤炭岛上的煤炭块~
+一个生成在紫晶矿区中的普通煤矿石 一个生成在紫晶矿区中的深层煤矿石 一个生成在紫晶矿区的煤炭块
 
 ---
 
 **获取**
-- 游戏开始时，玩家将获得35个**煤炭** :coal:
+- 游戏开始时，玩家将获得35个**煤炭** :coal: 。
 点击查看详情：[初始物资](/hgw/mechanisms/starting)
-- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个**煤炭** :coal:
-  挖掘煤炭块将会获得三个**煤炭** :coal:
-- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个**煤炭** :coal:
-  挖掘煤炭块将会固定获得四个**煤炭** :coal:
+- 使用一阶及以下的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一个**煤炭** :coal: 。
+  挖掘煤炭块将会获得三个**煤炭** :coal: 。
+- 使用二阶及以上的[镐](/hgw/items/equipments#镐)挖掘浅层煤矿石或深层煤矿石将获得一至两个**煤炭** :coal: 。
+  挖掘煤炭块将会固定获得四个**煤炭** :coal: 。
 
 ---
 
@@ -48,7 +48,7 @@ dateCreated: 2026-02-20T13:54:15.643Z
   [进阶核心火炮](/hgw/items/equipments#核心火炮) （二阶核心火炮）
   [高阶核心火炮](/hgw/items/equipments#核心火炮) （三阶核心火炮）
 - 用于：
-提升核心熔炉[炉温](/hgw/mechanisms/temp)  ([点击](/hgw/mechanisms/temp)了解更多)
+提升核心熔炉[炉温](/hgw/mechanisms/temp)
 
 ---
 **历史**
