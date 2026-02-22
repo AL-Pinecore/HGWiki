@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T03:08:46.437Z
+date: 2026-02-22T03:10:12.265Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-18T20:37:45.367Z
 
 
 
-<div class="hg-grid">
+<div class="hg-grid" stype="--cols: 4;">
   <div class="hg-card">
     <h3>？</h3>
     <a href="./sword">原神</a><br>
