@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T02:40:27.547Z
+date: 2026-02-22T02:44:00.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -21,7 +21,8 @@ dateCreated: 2026-02-18T20:37:45.367Z
   <div class="hg-card">
     <h3>我是mythend的:happy_ghast:</h3>
     <a href="./potion">HGWWW</a><br>
-    <a href="./scroll">Mythedn</a>
+    <a href="./scroll">Mythedn</a><br>
+    <a href="./scroll">:barrel:这招太狠了</a>
   </div>
 
   <div class="hg-card">
