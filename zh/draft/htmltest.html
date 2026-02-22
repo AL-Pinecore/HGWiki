@@ -2,14 +2,31 @@
 title: HTML测试
 description: 
 published: true
-date: 2026-02-22T09:41:51.738Z
+date: 2026-02-22T09:49:02.571Z
 tags: 
 editor: code
 dateCreated: 2026-02-22T08:30:28.302Z
 -->
 
-<h1>Title</h1>
-
-<p>Some text here</p>
-
-<div class="sl-host" data-text="测试按钮"></div>
+<head>
+    <style>
+        .heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover, .heimu:active,
+.heimu:hover .heimu, .heimu:active .heimu {
+    color: white !important;
+}
+.heimu:hover a, a:hover .heimu,
+.heimu:active a, a:active .heimu {
+    color: lightblue !important;
+}
+.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
+.heimu:active .new, .heimu .new:active, .new:active .heimu {
+    color: #BA0000 !important;
+}
+    </style>
+    <span class="heimu" title="你知道的太多了">你为什么要看这个！</span>
+</head>
