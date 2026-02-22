@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T08:46:21.249Z
+date: 2026-02-22T08:52:29.866Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -19,12 +19,10 @@ dateCreated: 2026-02-18T20:37:45.367Z
   </div>
 </div>
 
-<sl-button variant="primary">Hello Shoelace</sl-button>
+<sl-alert open>
+  <sl-icon slot="icon" name="info-circle"></sl-icon>
+  This is a standard alert. You can customize its content and even the icon.
+</sl-alert>
 
-<div>
-	<sl-alert variant="success" open>
-  Shoelace 在 Wiki.js 里成功加载！
-	</sl-alert>
-</div>
 :accessory/spruce_arcuale_v:
 :accessory/spruce_arcuale_v(100)::accessory/spruce_arcuale_v(100)::accessory/spruce_arcuale_v(100):
