@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T02:50:17.852Z
+date: 2026-02-22T02:53:31.300Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -50,24 +50,23 @@ dateCreated: 2026-02-18T20:37:45.367Z
   </div>
   
   <div class="hg-card">
-    <h3>那如果我很长呢？</h3>
     <h4>类别A</h4>
-    <a href="./ring">:iron_ingot:KE9NE </a>
-    <a href="./ring">:iron_ingot:Mythend </a>
-    <a href="./ring">:iron_ingot:MwMiao </a>
-    <a href="./ring">:iron_ingot:Noryea </a>
-    <a href="./ring">:iron_ingot:Thinker </a>
-    <a href="./ring">:iron_ingot:prl </a>
-    <a href="./ring">:iron_ingot:genshin </a>
-    <a href="./ring">:iron_ingot:hgw </a>
+    <a href="./ring">:iron_ingot:KE9NE</a>|
+    <a href="./ring">:iron_ingot:Mythend</a>|
+    <a href="./ring">:iron_ingot:MwMiao</a>|
+    <a href="./ring">:iron_ingot:Noryea</a>|
+    <a href="./ring">:iron_ingot:Thinker</a>|
+    <a href="./ring">:iron_ingot:prl</a>|
+    <a href="./ring">:iron_ingot:genshin</a>|
+    <a href="./ring">:iron_ingot:hgw</a>
     <h4>类别B</h4>
-    <a href="./ring">:iron_ingot:KE9NE </a>
-    <a href="./ring">:iron_ingot:Mythend </a>
-    <a href="./ring">:iron_ingot:MwMiao </a>
-    <a href="./ring">:iron_ingot:Noryea </a>
-    <a href="./ring">:iron_ingot:Thinker </a>
-    <a href="./ring">:iron_ingot:prl </a>
-    <a href="./ring">:iron_ingot:genshin </a>
-    <a href="./ring">:iron_ingot:hgw </a>
+    <a href="./ring">:iron_ingot:KE9NE</a>
+    <a href="./ring">:iron_ingot:Mythend</a>
+    <a href="./ring">:iron_ingot:MwMiao</a>
+    <a href="./ring">:iron_ingot:Noryea</a>
+    <a href="./ring">:iron_ingot:Thinker</a>
+    <a href="./ring">:iron_ingot:prl</a>
+    <a href="./ring">:iron_ingot:genshin</a>
+    <a href="./ring">:iron_ingot:hgw</a>
   </div>
 </div>
