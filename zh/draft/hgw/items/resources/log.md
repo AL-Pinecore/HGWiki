@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-22T08:48:06.405Z
+date: 2026-02-22T08:48:27.594Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -15,7 +15,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 
 > 本页面中，
 > 粗体**原木**均指**橡木原木**物品。
-> 粗斜体***原木***均指Minecraft Wiki中[原木](https://zh.minecraft.wiki/w/原木)界面所指。
+> 粗斜体***原木***均同Minecraft Wiki中[原木](https://zh.minecraft.wiki/w/原木)界面所指。
 {.is-info}
 
 **原木** :log: 是游戏[乐魂战](/quick-start#乐魂战)中的一种基础资源。 *~~这才是最多的资源~~*
