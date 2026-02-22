@@ -2,7 +2,7 @@
 title: 光学棱镜
 description: 
 published: true
-date: 2026-02-22T09:28:31.804Z
+date: 2026-02-22T09:29:53.800Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-20T13:10:51.490Z
@@ -29,5 +29,5 @@ dateCreated: 2026-02-20T13:10:51.490Z
 **贴图:**
 ![optical_prism.png](/icons/accessory/optical_prism.png =150x150)
 
-> 如果您在使用重弩的同时有隐藏自身的需求，就搭配隐身药水使用它吧。
+> 如果您在使用重弩的同时有隐藏自身的需求，那么搭配隐身药水使用它吧。
 {.is-info}
