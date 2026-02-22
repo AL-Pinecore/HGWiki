@@ -2,7 +2,7 @@
 title: 测试
 description: 
 published: true
-date: 2026-02-22T03:10:53.570Z
+date: 2026-02-22T03:11:35.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T20:37:45.367Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T20:37:45.367Z
 
 # 我是神人 :barrel:
 
-<div class="hg-grid" stype="--cols: 4; --min: 40px;">
+<div class="hg-grid" style="--cols: 4; --min: 240px;">
   <div class="hg-card">
     <h3>？</h3>
     <a href="./sword">原神</a><br>
