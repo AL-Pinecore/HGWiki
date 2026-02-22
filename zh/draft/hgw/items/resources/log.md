@@ -2,7 +2,7 @@
 title: 原木
 description: 
 published: true
-date: 2026-02-22T08:18:22.242Z
+date: 2026-02-22T08:20:31.333Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-21T03:34:51.336Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-21T03:34:51.336Z
 # 原木
 
 > 本页面所写
-> 粗体**原木**均指**橡木原木**物品
+> 粗体**原木**均指**橡木原木**物品和资源**原木** :log:
 > 粗斜体***原木***均指Minecraft Wiki中定义的[原木](https://zh.minecraft.wiki/w/原木)
 {.is-info}
 
